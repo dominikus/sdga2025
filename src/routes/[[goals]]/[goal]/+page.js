@@ -11,11 +11,11 @@ export async function load({ params, fetch }) {
 		}
 	}
 
-	console.log(params, goal);
+	console.log('yolo:', params, goal);
 
 	try {
 		let parsedGoal = goal;
-		const response = await fetch(`data/${parsedGoal}/${parsedGoal}.json`);
+		const response = await fetch(`/data/${parsedGoal}/${parsedGoal}.json`);
 		const doc = await response.json();
 
 		return { goal: parsedGoal, doc };

@@ -1,7 +1,7 @@
 <script>
 	export let data;
 
-	$: content = data?.doc?.text.replace(/\n/g, '<br/>');
+	$: content = data?.doc?.text?.replace(/\n/g, '<br/>');
 	$: console.log(content);
 </script>
 
