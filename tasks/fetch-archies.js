@@ -30,7 +30,7 @@ const IGNORED_FOR_TRANSLATIONS = [
 ];
 const TRANSLATION_PREFIX_KEY = 'translationPrefix';
 
-const LIVE_PATH = '../src/data';
+const LIVE_PATH = '../static/data';
 const CSV_PATH = '../static/data';
 const TRANSLATIONS_PATH = '../static/i18n';
 
