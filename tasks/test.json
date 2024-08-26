@@ -1578,30 +1578,35 @@
       },
       {
         "startIndex": 1578,
-        "endIndex": 1614,
+        "endIndex": 1613,
         "paragraph": {
           "elements": [
             {
               "startIndex": 1578,
-              "endIndex": 1598,
+              "endIndex": 1613,
               "textRun": {
-                "content": "noew here's some act",
+                "content": "noew here's some actual change yay\n",
                 "textStyle": {}
               }
-            },
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1613,
+        "endIndex": 1614,
+        "paragraph": {
+          "elements": [
             {
-              "startIndex": 1598,
-              "endIndex": 1599,
-              "inlineObjectElement": {
-                "inlineObjectId": "kix.k2av8qkacb9a",
-                "textStyle": {}
-              }
-            },
-            {
-              "startIndex": 1599,
+              "startIndex": 1613,
               "endIndex": 1614,
               "textRun": {
-                "content": "ual change yay\n",
+                "content": "\n",
                 "textStyle": {}
               }
             }
@@ -1615,12 +1620,49 @@
       },
       {
         "startIndex": 1614,
-        "endIndex": 1615,
+        "endIndex": 1674,
         "paragraph": {
           "elements": [
             {
               "startIndex": 1614,
-              "endIndex": 1615,
+              "endIndex": 1646,
+              "textRun": {
+                "content": "and here's a link to a chapter: ",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 1646,
+              "endIndex": 1647,
+              "inlineObjectElement": {
+                "inlineObjectId": "kix.eo6rf3m4dnce",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 1647,
+              "endIndex": 1674,
+              "textRun": {
+                "content": " in the middle of the text\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1674,
+        "endIndex": 1675,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1674,
+              "endIndex": 1675,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1709,13 +1751,13 @@
         }
       },
       {
-        "startIndex": 1615,
-        "endIndex": 1616,
+        "startIndex": 1675,
+        "endIndex": 1676,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1615,
-              "endIndex": 1616,
+              "startIndex": 1675,
+              "endIndex": 1676,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1804,13 +1846,13 @@
         }
       },
       {
-        "startIndex": 1616,
-        "endIndex": 1617,
+        "startIndex": 1676,
+        "endIndex": 1677,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1616,
-              "endIndex": 1617,
+              "startIndex": 1676,
+              "endIndex": 1677,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1899,13 +1941,13 @@
         }
       },
       {
-        "startIndex": 1617,
-        "endIndex": 1618,
+        "startIndex": 1677,
+        "endIndex": 1678,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1617,
-              "endIndex": 1618,
+              "startIndex": 1677,
+              "endIndex": 1678,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1994,13 +2036,13 @@
         }
       },
       {
-        "startIndex": 1618,
-        "endIndex": 1619,
+        "startIndex": 1678,
+        "endIndex": 1679,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1618,
-              "endIndex": 1619,
+              "startIndex": 1678,
+              "endIndex": 1679,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2089,13 +2131,13 @@
         }
       },
       {
-        "startIndex": 1619,
-        "endIndex": 1620,
+        "startIndex": 1679,
+        "endIndex": 1680,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1619,
-              "endIndex": 1620,
+              "startIndex": 1679,
+              "endIndex": 1680,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2184,13 +2226,13 @@
         }
       },
       {
-        "startIndex": 1620,
-        "endIndex": 1621,
+        "startIndex": 1680,
+        "endIndex": 1681,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1620,
-              "endIndex": 1621,
+              "startIndex": 1680,
+              "endIndex": 1681,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2279,13 +2321,108 @@
         }
       },
       {
-        "startIndex": 1621,
-        "endIndex": 1622,
+        "startIndex": 1681,
+        "endIndex": 1682,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1621,
-              "endIndex": 1622,
+              "startIndex": 1681,
+              "endIndex": 1682,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1682,
+        "endIndex": 1683,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1682,
+              "endIndex": 1683,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2800,7 +2937,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdenWMY0FedGm3zACbKKfMFJt5NwmrJZUev4--_Etq0eRM2pj489I8Qgmb-Vh768bc7P2NHQIR5PloI2lzGlqDubbgO7rxJNTojtDEEYFJnXTXoeb_tBy6nm0B2oaFB_7rXua3BorIe1NjG1DxpGzInNmVW?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcklpChNrgyfXafXaP8Tur8YPnOxoeJU70JFk1c727BvOFd_Lo7novjjwmFgx9gbAPAtz_jxjij0G6f2EHK0q5LTjjVAtNRp6YYl4DInn9BwZj7iUgYJEThWtff2Dw1m_dO6RNqp04a-VDSHAILcVnvSglI?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-88",
@@ -2850,7 +2987,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQfDVZyQvgxDU-3T53YyLzP9AClpQO2diKo71ypc26effy9ie7Mg47mf0F5bTz-6bbjnUIo6y6MR8NyEijtg_fYaW91wuA9OeFTgux-DHsc4UyWosi4tS_4Mumg7WF-Qrk2UuMJ6IA8kbEb-eJol-MpmiL?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcan_AUla3S3xU5sUjbAuxGYoDxCCfuF7h__DRCc_vTaJd6CbhNZLO0pf_JbCL_u-5GlRdJFy2KN6HVWLAKJ6kwOBKJq9mIfWBmZwru7N0h79spsTwgBoyriGGRBzHAZaB7Ncqgj3X3Oo_wm58wA8ZBBUxE?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -2899,7 +3036,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdA19qGTmYh_cU9maaNxnoeNg6YB94_73ucav95f6q6v6GepprZ-UKDnR_I2kO3ohqXg-HZtYJkWiFPg5qAKjf3MLpnbYjPd0Gm2KUZvjkn597Cm0-o3cdXtA6N3OEZu-12Ii8ofjOYcA-bthaSVpKGEZBd?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXembJs8k4Y77a6xCTzlM-P7QyHtXDajOQiswhYc-HYIrULj0t3amJ7fA8JWTn25kthufhMp_beZ1jdYV7-jQmkNj0yxiUc9rJeO1LKkwQD8FnjlqHxOHlGzpczNc1EVU-sqewG-ndDDIIoL3KM_2hlvoPOD?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -2948,7 +3085,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXckCCBzCf-mW3raAAiY8Xc_MBtss6p1_gOZjXL7zEaxlRt7jgAjLjEsqFyrgM6xlQk5tK-pODBXAC9ZGiFG4WIX5Trsvuwz9wFyCbeFi2wvOFXraq4VKFv4gl8bYMls8yagUa8cZdY56IRa5dy1pfsJ1Ok_?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfEagrZ-n2iXo2N7uAJc0F8QQ-ocmpr0D2iX6Kh3cVK3H1L5zn5kjxrMD5Y5mZGK47u_A1SilZT62VB3hT6PnBXRtINrJ6iCbVIIqITo1uTmfwLdKuuD_Rf0LWTx2k8DdgpALAGN1upDFWpN6WUCxbI2aYG?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-99",
@@ -2993,15 +3130,15 @@
         }
       }
     },
-    "kix.k2av8qkacb9a": {
-      "objectId": "kix.k2av8qkacb9a",
+    "kix.eo6rf3m4dnce": {
+      "objectId": "kix.eo6rf3m4dnce",
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHeR20BPIuxbiktB6T7f8B-GZ_CYG7zMw8Hq9fAV6jiIgIYEudh3_FwOxViteBZsAmShxdVe0sD3qt1taafKK3OC3fXWHObMJRPSR67fJAlaDKvV8s7RdLLEmCADpEOHqY-58-xwzX6_QGuLMNQs4rsdqW?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeq1zR10aCqr6K02qKnj9MQXVBXKboF6BlDTUCq9gUv9hMI6_VvApCL7f2hu0B06yz7hS7ynT9J_lCYGdx4UEthsfwN9z6U-njlD9bvTqxei1BEBDHNi4BjuKjqrutrLbDyOeTF0lclH1JQk0MnaUpg9HTp?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
-          "title": "sdg-link-69",
+          "title": "sdg-link-12",
           "embeddedObjectBorder": {
             "color": {
               "color": {
@@ -3048,7 +3185,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFePe5O_WDcilt3mr19FXo4BFp3tBxNnpKZWr3psTambISiCfvtFyvtoiZPwRUSQSeELcst4wOUm3QKZ6QWZuw7Bo3_1g11I5lU_fa8x-DlMdkC6tj2kTwaYnaccTzrcJKsycOr75vQFP1polxy0uy9X6E?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdN5inA6MmkQXDN9LoOynlbggjOFhUOMLBltu-uFi8jB4dbqIiP4jzuJ3Uw4Dq0z7apVO_7Kpp4weB3AY3zWPjbpZjZ6bO2MrA1Q3RSF-SBh3FVv-wgYSw9cLTHLmZ7wvO_r024wtOHwL7e0-DDxzEuuYY4?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3097,7 +3234,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZk-S2gwrOqB80-DsdIBrCWqCTjPSbM0DIjp93L3dCVbw7zXX9rhW0SqCVFbjFIdG2wWVyTeE8_jNFqsp0fyQRPq94p4InGAC6aM8KWmd5XHtORZZG5DsCJx_SoZ0Egipzrnis56Ktn8i-AkHcdRCFcovR?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdH5tbM99dFeubLwQv2p4rPKKmgMVIuFxZgoa1SnB3NQK27X6wUjOIE5DvqKGUaH6Px2gBYfRfe7ybooZMrHPeapIEEcKU3Yfi4a8eZSOJ7kGaWNluvnZ_6r_T4mfOA3yNVMsu0IYbiUtEOyVmafwJfUS6A?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-NaN",
@@ -3147,7 +3284,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgIFJbbZbcau_36Mse0Xi2vlUFADU2RhuEhmqXPdeBRP37rnMQRS-TMRTekQvQ6FW1EheI5hIH-WkXoHBQ1eVa2TsbrQKXANFhd-VmqG1DDIt5UnqbxV0LlQDvYMnwtkDOujy7NiOUWWKzSaDxEumwz8Y?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd88XqlvQ0w1E-OVIJAuy1fsIWKAdrxtn4D7BCCl5-BP6B8CKkMqkx0bBDb_dDY0QrnstDn3lYYywKEMC7lMR8G6Ows61okz3khzwOtngDTJ_M-yLbFyu6o6ZuzUfFo_Iy-4oEawh4uuGES0JkqnNvVZ28?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3196,7 +3333,56 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-lfDdVXeyq3qxXDwfZ3IfL5jfVz-QMTLehydQBBRmid9pAv8hWV-4cqfQNgqGGPmD5gCYd5E0zPHiYyyJyzAC1TbwMCZMTFBvJoBPzYK0luNN2EQMnuInK_2v2CgytG4j3Jjx11f-r2ZuyHdp-pdXjgk?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYBv-L4QJHpjpY6jOpVsRuJiLxgKRhV8dUEbIJThB3tEa_rBj_dL-gxBAZBXtDmUaN9Ou9O7MnbDjxLl9Ayk9Csrp1kq2lFszr9FaE33LNEiraFb6oacym6ujVKk1CsaV066BiaVG6ePy2O-R7ghhdfUo?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.qtqeiwpzw43q": {
+      "objectId": "kix.qtqeiwpzw43q",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdF403WeT62KR6RLS1oanMmPbXNtjLuxja5U0hP2TXBxNgEqggAeJqVkVkMaHwK3Srd2Gp73qD3omvBno0vc-ZQ827vUaTIh39CFDG7r4PH46dLTSMIW8Eatp8nRZDJW1YFb3J8q-WhdrLFe5qCb7GaqNfJ?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3245,7 +3431,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2wix1FhMr9LbBhQlqmurV3gX7qtEnEs0_BbPCFOXH4YyLTo1SvMgGfS2HD9twPzi_LWsC1oIXFkhaAJvWaR0npOZexy8ojpwi3CpmUoT7XEMkD-_9eB8gJHfR8Rcpgl963lBoY3BnmZc_VoGrED9_nDI8?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxgJc8mZVHb5VreSlq8YyzXfrfzARL4M4rUfFLfOK51WCfECyhl46McqWEIpV9ru_m50zTo6laUcJHMf1glzyZebQYqTY6qaXzghLPFEDt6xbGNAcvBnaoaWPJTVTmT10B5Wkqw-m1trqCYPI9QePb_7QK?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link--1",
@@ -3295,7 +3481,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2rO3dglRSFRe2LQkWJLerpiR-e_jXossOa5Pj9Yt_zVJa0vinmruQJJa4JRipddEOvcBD7iVh7oBrp6cys7VC_M8-f2NBmcCMlDGqOnQ4o9PeVHZFqY_meBQcIaG6X0xmgN7Od_KvFM7r1u6uiDWyRh9p?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeu4gFxseAhpsnUN0h9sM8XkSS8sq1RLXcplvQqJX_QqxFU-RdQ-E4wTnkxdAmWh518PK1lJ1oQVJNutGk1Ee4hxo-sU8Q3tLU0RilRB4l_vqEF0YZQF28PWaxGW8XMaR6DXMa3BcF1cxDv3ZEyDjJdHUY7?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3344,7 +3530,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXetjT_2SHM0cskcekltcxUfJWCU22VBASWB3elvhXFchPUR0cDxbJiS9Q2xW5hZ85QHkSm5a-1G10nu70Skir1FOjF_JYiJewHkJC6kcbzzAsyUX2T8RHiPK83bqrzk4FM0i7BvG8FxW2T0uJtvpHznBxPD?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8gHVVmc4FhDlGRjLgDpgPHPJXd1Nc1wu2AAnanDYaAKZoti2bRyIECU68XNHKawmyb28RWY8UR5nm-z7-_dwXxqPl1d2Q0FdBKxipvmkBc42fi0usMftLB_VamDynadRgbXBDLSyzqwm5kBVBdvboV0zj?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-9999",
