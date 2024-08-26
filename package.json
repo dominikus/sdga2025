@@ -1,0 +1,31 @@
+{
+  "name": "sdg2025",
+  "version": "0.0.1",
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.14.0"
+  },
+  "scripts": {
+    "cms": "cd tasks && node fetch-archies.js",
+    "cms-no-data": "cd tasks && node fetch-archies.js --skip-data",
+    "dev": "vite dev --host",
+    "build": "./production.sh production",
+    "build-wb": "./production.sh worldbank",
+    "package": "vite package",
+    "preview": "vite preview",
+    "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. .",
+    "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
+    "convert-tokens": "token-transformer src/design/tokens/tokens.json src/design/temp/temp_styles.json base,global mobile,fluid,typography --expandTypography=true --expandShadow=true --preserveRawValue=true",
+    "build-styles": "npm run convert-tokens; node tasks/build-styles.js",
+    "sync-translations": "cd tasks && node sync-translations.js",
+    "prettier": "prettier --write 'src/**/*.svelte'",
+    "postinstall": "patch-package"
+  },
+  "devDependencies": {
+    "@googleapis/docs": "^3.3.0",
+    "@googleapis/drive": "^8.13.0",
+    "d3": "^7.9.0",
+    "json2csv": "^6.0.0-alpha.2"
+  },
+  "type": "module"
+}

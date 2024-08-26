@@ -1,0 +1,3394 @@
+{
+  "title": "Goal 01",
+  "body": {
+    "content": [
+      {
+        "endIndex": 1,
+        "sectionBreak": {
+          "sectionStyle": {
+            "columnSeparatorStyle": "NONE",
+            "contentDirection": "LEFT_TO_RIGHT",
+            "sectionType": "CONTINUOUS"
+          }
+        }
+      },
+      {
+        "startIndex": 1,
+        "endIndex": 48,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1,
+              "endIndex": 48,
+              "textRun": {
+                "content": "Progress, challenges in ending extreme poverty\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "headingId": "h.8enld492331l",
+            "namedStyleType": "HEADING_1",
+            "direction": "LEFT_TO_RIGHT"
+          }
+        }
+      },
+      {
+        "startIndex": 48,
+        "endIndex": 49,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 48,
+              "endIndex": 49,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+          }
+        }
+      },
+      {
+        "startIndex": 49,
+        "endIndex": 430,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 49,
+              "endIndex": 54,
+              "textRun": {
+                "content": "SDG 1",
+                "textStyle": {
+                  "bold": true
+                }
+              }
+            },
+            {
+              "startIndex": 54,
+              "endIndex": 170,
+              "textRun": {
+                "content": " calls for ending poverty by 2030. On the eve of the pandemic, 659 million people struggled on less than $2.15 a day",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 170,
+              "endIndex": 171,
+              "footnoteReference": {
+                "footnoteId": "kix.hrplxtapzzs4",
+                "footnoteNumber": "1",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 171,
+              "endIndex": 173,
+              "textRun": {
+                "content": ". ",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 173,
+              "endIndex": 186,
+              "textRun": {
+                "content": "The pandemic ",
+                "textStyle": {
+                  "backgroundColor": {
+                    "color": {
+                      "rgbColor": {
+                        "red": 1,
+                        "green": 0.7490196,
+                        "blue": 0.14117648
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 186,
+              "endIndex": 430,
+              "textRun": {
+                "content": "halted years of progress in ending extreme poverty, expanding the number of extremely poor people by 70 million. Poor countries will need to grow to end extreme poverty and it can be done without significantly contributing to global emissions.\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+          }
+        }
+      },
+      {
+        "startIndex": 430,
+        "endIndex": 431,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 430,
+              "endIndex": 431,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 431,
+        "endIndex": 444,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 431,
+              "endIndex": 444,
+              "textRun": {
+                "content": "this is text\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 444,
+        "endIndex": 445,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 444,
+              "endIndex": 445,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 445,
+        "endIndex": 499,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 445,
+              "endIndex": 498,
+              "textRun": {
+                "content": "here's some test for an updated namedStyleType for H2",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 498,
+              "endIndex": 499,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {
+                  "weightedFontFamily": {
+                    "fontFamily": "Lobster",
+                    "weight": 400
+                  }
+                }
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "headingId": "h.yyyg5vhwzt3y",
+            "namedStyleType": "HEADING_2",
+            "direction": "LEFT_TO_RIGHT"
+          }
+        }
+      },
+      {
+        "startIndex": 499,
+        "endIndex": 500,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 499,
+              "endIndex": 500,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 500,
+        "endIndex": 501,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 500,
+              "endIndex": 501,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 501,
+        "endIndex": 502,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 501,
+              "endIndex": 502,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 502,
+        "endIndex": 1155,
+        "table": {
+          "rows": 6,
+          "columns": 2,
+          "tableRows": [
+            {
+              "startIndex": 503,
+              "endIndex": 526,
+              "tableCells": [
+                {
+                  "startIndex": 504,
+                  "endIndex": 509,
+                  "content": [
+                    {
+                      "startIndex": 505,
+                      "endIndex": 509,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 505,
+                            "endIndex": 509,
+                            "textRun": {
+                              "content": "vis\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                },
+                {
+                  "startIndex": 509,
+                  "endIndex": 526,
+                  "content": [
+                    {
+                      "startIndex": 510,
+                      "endIndex": 526,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 510,
+                            "endIndex": 526,
+                            "textRun": {
+                              "content": "povertyscroller\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                }
+              ],
+              "tableRowStyle": {
+                "minRowHeight": {
+                  "unit": "PT"
+                }
+              }
+            },
+            {
+              "startIndex": 526,
+              "endIndex": 536,
+              "tableCells": [
+                {
+                  "startIndex": 527,
+                  "endIndex": 533,
+                  "content": [
+                    {
+                      "startIndex": 528,
+                      "endIndex": 533,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 528,
+                            "endIndex": 533,
+                            "textRun": {
+                              "content": "data\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                },
+                {
+                  "startIndex": 533,
+                  "endIndex": 536,
+                  "content": [
+                    {
+                      "startIndex": 534,
+                      "endIndex": 536,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 534,
+                            "endIndex": 536,
+                            "textRun": {
+                              "content": "…\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                }
+              ],
+              "tableRowStyle": {
+                "minRowHeight": {
+                  "unit": "PT"
+                }
+              }
+            },
+            {
+              "startIndex": 536,
+              "endIndex": 663,
+              "tableCells": [
+                {
+                  "startIndex": 537,
+                  "endIndex": 547,
+                  "content": [
+                    {
+                      "startIndex": 538,
+                      "endIndex": 547,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 538,
+                            "endIndex": 547,
+                            "textRun": {
+                              "content": "szfdsoij\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                },
+                {
+                  "startIndex": 547,
+                  "endIndex": 663,
+                  "content": [
+                    {
+                      "startIndex": 548,
+                      "endIndex": 662,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 548,
+                            "endIndex": 564,
+                            "textRun": {
+                              "content": "In 1990, nearly ",
+                              "textStyle": {}
+                            }
+                          },
+                          {
+                            "startIndex": 564,
+                            "endIndex": 580,
+                            "textRun": {
+                              "content": "2 billion people",
+                              "textStyle": {
+                                "bold": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 580,
+                            "endIndex": 600,
+                            "textRun": {
+                              "content": " worldwide lived in ",
+                              "textStyle": {}
+                            }
+                          },
+                          {
+                            "startIndex": 600,
+                            "endIndex": 615,
+                            "textRun": {
+                              "content": "extreme poverty",
+                              "textStyle": {
+                                "backgroundColor": {
+                                  "color": {
+                                    "rgbColor": {
+                                      "red": 1,
+                                      "green": 0.7490196,
+                                      "blue": 0.14117648
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 615,
+                            "endIndex": 662,
+                            "textRun": {
+                              "content": " – in other words, on less than $2.15 per day.\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    },
+                    {
+                      "startIndex": 662,
+                      "endIndex": 663,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 662,
+                            "endIndex": 663,
+                            "textRun": {
+                              "content": "\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                }
+              ],
+              "tableRowStyle": {
+                "minRowHeight": {
+                  "unit": "PT"
+                }
+              }
+            },
+            {
+              "startIndex": 663,
+              "endIndex": 815,
+              "tableCells": [
+                {
+                  "startIndex": 664,
+                  "endIndex": 672,
+                  "content": [
+                    {
+                      "startIndex": 665,
+                      "endIndex": 672,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 665,
+                            "endIndex": 672,
+                            "textRun": {
+                              "content": "scene2\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                },
+                {
+                  "startIndex": 672,
+                  "endIndex": 815,
+                  "content": [
+                    {
+                      "startIndex": 673,
+                      "endIndex": 815,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 673,
+                            "endIndex": 727,
+                            "textRun": {
+                              "content": "Between 1990 and 2019, the number of people living in ",
+                              "textStyle": {}
+                            }
+                          },
+                          {
+                            "startIndex": 727,
+                            "endIndex": 742,
+                            "textRun": {
+                              "content": "extreme poverty",
+                              "textStyle": {
+                                "backgroundColor": {
+                                  "color": {
+                                    "rgbColor": {
+                                      "red": 0.8784314,
+                                      "green": 0.4,
+                                      "blue": 0.4
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 742,
+                            "endIndex": 802,
+                            "textRun": {
+                              "content": " was reduced by around 66 percent, from 2 billion to around ",
+                              "textStyle": {}
+                            }
+                          },
+                          {
+                            "startIndex": 802,
+                            "endIndex": 813,
+                            "textRun": {
+                              "content": "660 million",
+                              "textStyle": {
+                                "bold": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 813,
+                            "endIndex": 815,
+                            "textRun": {
+                              "content": ".\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                }
+              ],
+              "tableRowStyle": {
+                "minRowHeight": {
+                  "unit": "PT"
+                }
+              }
+            },
+            {
+              "startIndex": 815,
+              "endIndex": 1149,
+              "tableCells": [
+                {
+                  "startIndex": 816,
+                  "endIndex": 824,
+                  "content": [
+                    {
+                      "startIndex": 817,
+                      "endIndex": 824,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 817,
+                            "endIndex": 824,
+                            "textRun": {
+                              "content": "scene3\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                },
+                {
+                  "startIndex": 824,
+                  "endIndex": 1149,
+                  "content": [
+                    {
+                      "startIndex": 825,
+                      "endIndex": 1149,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 825,
+                            "endIndex": 939,
+                            "textRun": {
+                              "content": "Over the same period, the world’s population increased by around 2.4 billion people and the number of people with ",
+                              "textStyle": {}
+                            }
+                          },
+                          {
+                            "startIndex": 939,
+                            "endIndex": 983,
+                            "textRun": {
+                              "content": "incomes above the international poverty line",
+                              "textStyle": {
+                                "backgroundColor": {
+                                  "color": {
+                                    "rgbColor": {
+                                      "red": 0.7137255,
+                                      "green": 0.84313726,
+                                      "blue": 0.65882355
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 983,
+                            "endIndex": 984,
+                            "textRun": {
+                              "content": " ",
+                              "textStyle": {}
+                            }
+                          },
+                          {
+                            "startIndex": 984,
+                            "endIndex": 1023,
+                            "textRun": {
+                              "content": "increased from 3.3 billion to 7 billion",
+                              "textStyle": {
+                                "bold": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 1023,
+                            "endIndex": 1149,
+                            "textRun": {
+                              "content": ". As a result, the share of the global population living in extreme poverty was reduced from about 38 percent to 8.5 percent.\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                }
+              ],
+              "tableRowStyle": {
+                "minRowHeight": {
+                  "unit": "PT"
+                }
+              }
+            },
+            {
+              "startIndex": 1149,
+              "endIndex": 1154,
+              "tableCells": [
+                {
+                  "startIndex": 1150,
+                  "endIndex": 1152,
+                  "content": [
+                    {
+                      "startIndex": 1151,
+                      "endIndex": 1152,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 1151,
+                            "endIndex": 1152,
+                            "textRun": {
+                              "content": "\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                },
+                {
+                  "startIndex": 1152,
+                  "endIndex": 1154,
+                  "content": [
+                    {
+                      "startIndex": 1153,
+                      "endIndex": 1154,
+                      "paragraph": {
+                        "elements": [
+                          {
+                            "startIndex": 1153,
+                            "endIndex": 1154,
+                            "textRun": {
+                              "content": "\n",
+                              "textStyle": {}
+                            }
+                          }
+                        ],
+                        "paragraphStyle": {
+                          "namedStyleType": "NORMAL_TEXT",
+                          "lineSpacing": 100,
+                          "direction": "LEFT_TO_RIGHT",
+                          "avoidWidowAndOrphan": false
+                        }
+                      }
+                    }
+                  ],
+                  "tableCellStyle": {
+                    "rowSpan": 1,
+                    "columnSpan": 1
+                  }
+                }
+              ],
+              "tableRowStyle": {
+                "minRowHeight": {
+                  "unit": "PT"
+                }
+              }
+            }
+          ],
+          "tableStyle": {
+            "tableColumnProperties": [
+              {
+                "widthType": "FIXED_WIDTH",
+                "width": {
+                  "magnitude": 78.75,
+                  "unit": "PT"
+                }
+              },
+              {
+                "widthType": "FIXED_WIDTH",
+                "width": {
+                  "magnitude": 371.25,
+                  "unit": "PT"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "startIndex": 1155,
+        "endIndex": 1156,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1155,
+              "endIndex": 1156,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1156,
+        "endIndex": 1157,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1156,
+              "endIndex": 1157,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1157,
+        "endIndex": 1158,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1157,
+              "endIndex": 1158,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1158,
+        "endIndex": 1159,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1158,
+              "endIndex": 1159,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1159,
+        "endIndex": 1160,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1159,
+              "endIndex": 1160,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1160,
+        "endIndex": 1161,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1160,
+              "endIndex": 1161,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1161,
+        "endIndex": 1162,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1161,
+              "endIndex": 1162,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1162,
+        "endIndex": 1163,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1162,
+              "endIndex": 1163,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1163,
+        "endIndex": 1164,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1163,
+              "endIndex": 1164,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1164,
+        "endIndex": 1165,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1164,
+              "endIndex": 1165,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1165,
+        "endIndex": 1166,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1165,
+              "endIndex": 1166,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1166,
+        "endIndex": 1167,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1166,
+              "endIndex": 1167,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1167,
+        "endIndex": 1168,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1167,
+              "endIndex": 1168,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1168,
+        "endIndex": 1169,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1168,
+              "endIndex": 1169,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1169,
+        "endIndex": 1170,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1169,
+              "endIndex": 1170,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1170,
+        "endIndex": 1171,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1170,
+              "endIndex": 1171,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1171,
+        "endIndex": 1172,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1171,
+              "endIndex": 1172,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1172,
+        "endIndex": 1173,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1172,
+              "endIndex": 1173,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1173,
+        "endIndex": 1174,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1173,
+              "endIndex": 1174,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1174,
+        "endIndex": 1213,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1174,
+              "endIndex": 1213,
+              "textRun": {
+                "content": "Requirements Atlas Infrastructure 2025\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "headingId": "h.veqyrkwn68ae",
+            "namedStyleType": "HEADING_3",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1213,
+        "endIndex": 1280,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1213,
+              "endIndex": 1280,
+              "textRun": {
+                "content": "- writers should be able to update content in staging/live-version\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1280,
+        "endIndex": 1399,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1280,
+              "endIndex": 1399,
+              "textRun": {
+                "content": "- components (e.g., references, links, headlines, text background colors) should be available in editor UI (no markup)\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1399,
+        "endIndex": 1446,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1399,
+              "endIndex": 1446,
+              "textRun": {
+                "content": "- styling of text should be possible in editor\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1446,
+        "endIndex": 1493,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1446,
+              "endIndex": 1493,
+              "textRun": {
+                "content": "- Design tokens should be available to writers\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1493,
+        "endIndex": 1538,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1493,
+              "endIndex": 1538,
+              "textRun": {
+                "content": "- Translations should not involve developers\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1538,
+        "endIndex": 1576,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1538,
+              "endIndex": 1576,
+              "textRun": {
+                "content": "- collaboration among writers/editors\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1576,
+        "endIndex": 1577,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1576,
+              "endIndex": 1577,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1577,
+        "endIndex": 1578,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1577,
+              "endIndex": 1578,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1578,
+        "endIndex": 1614,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1578,
+              "endIndex": 1598,
+              "textRun": {
+                "content": "noew here's some act",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 1598,
+              "endIndex": 1599,
+              "inlineObjectElement": {
+                "inlineObjectId": "kix.k2av8qkacb9a",
+                "textStyle": {}
+              }
+            },
+            {
+              "startIndex": 1599,
+              "endIndex": 1614,
+              "textRun": {
+                "content": "ual change yay\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "avoidWidowAndOrphan": false
+          }
+        }
+      },
+      {
+        "startIndex": 1614,
+        "endIndex": 1615,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1614,
+              "endIndex": 1615,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1615,
+        "endIndex": 1616,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1615,
+              "endIndex": 1616,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1616,
+        "endIndex": 1617,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1616,
+              "endIndex": 1617,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1617,
+        "endIndex": 1618,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1617,
+              "endIndex": 1618,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1618,
+        "endIndex": 1619,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1618,
+              "endIndex": 1619,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1619,
+        "endIndex": 1620,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1619,
+              "endIndex": 1620,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1620,
+        "endIndex": 1621,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1620,
+              "endIndex": 1621,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      },
+      {
+        "startIndex": 1621,
+        "endIndex": 1622,
+        "paragraph": {
+          "elements": [
+            {
+              "startIndex": 1621,
+              "endIndex": 1622,
+              "textRun": {
+                "content": "\n",
+                "textStyle": {}
+              }
+            }
+          ],
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": false,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        }
+      }
+    ]
+  },
+  "footnotes": {
+    "kix.hrplxtapzzs4": {
+      "footnoteId": "kix.hrplxtapzzs4",
+      "content": [
+        {
+          "endIndex": 13,
+          "paragraph": {
+            "elements": [
+              {
+                "endIndex": 13,
+                "textRun": {
+                  "content": " footnote!!!\n",
+                  "textStyle": {
+                    "fontSize": {
+                      "magnitude": 10,
+                      "unit": "PT"
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "lineSpacing": 100,
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "documentStyle": {
+    "background": {
+      "color": {}
+    },
+    "pageNumberStart": 1,
+    "marginTop": {
+      "magnitude": 72,
+      "unit": "PT"
+    },
+    "marginBottom": {
+      "magnitude": 72,
+      "unit": "PT"
+    },
+    "marginRight": {
+      "magnitude": 72,
+      "unit": "PT"
+    },
+    "marginLeft": {
+      "magnitude": 72,
+      "unit": "PT"
+    },
+    "pageSize": {
+      "height": {
+        "magnitude": 841.8897637795277,
+        "unit": "PT"
+      },
+      "width": {
+        "magnitude": 595.2755905511812,
+        "unit": "PT"
+      }
+    },
+    "marginHeader": {
+      "magnitude": 36,
+      "unit": "PT"
+    },
+    "marginFooter": {
+      "magnitude": 36,
+      "unit": "PT"
+    },
+    "useCustomHeaderFooterMargins": true
+  },
+  "namedStyles": {
+    "styles": [
+      {
+        "namedStyleType": "NORMAL_TEXT",
+        "textStyle": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "strikethrough": false,
+          "smallCaps": false,
+          "backgroundColor": {},
+          "foregroundColor": {
+            "color": {
+              "rgbColor": {}
+            }
+          },
+          "fontSize": {
+            "magnitude": 11,
+            "unit": "PT"
+          },
+          "weightedFontFamily": {
+            "fontFamily": "Arial",
+            "weight": 400
+          },
+          "baselineOffset": "NONE"
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "alignment": "START",
+          "lineSpacing": 115,
+          "direction": "LEFT_TO_RIGHT",
+          "spacingMode": "COLLAPSE_LISTS",
+          "spaceAbove": {
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "unit": "PT"
+          },
+          "borderBetween": {
+            "color": {},
+            "width": {
+              "unit": "PT"
+            },
+            "padding": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID"
+          },
+          "borderTop": {
+            "color": {},
+            "width": {
+              "unit": "PT"
+            },
+            "padding": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID"
+          },
+          "borderBottom": {
+            "color": {},
+            "width": {
+              "unit": "PT"
+            },
+            "padding": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID"
+          },
+          "borderLeft": {
+            "color": {},
+            "width": {
+              "unit": "PT"
+            },
+            "padding": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID"
+          },
+          "borderRight": {
+            "color": {},
+            "width": {
+              "unit": "PT"
+            },
+            "padding": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID"
+          },
+          "indentFirstLine": {
+            "unit": "PT"
+          },
+          "indentStart": {
+            "unit": "PT"
+          },
+          "indentEnd": {
+            "unit": "PT"
+          },
+          "keepLinesTogether": false,
+          "keepWithNext": false,
+          "avoidWidowAndOrphan": true,
+          "shading": {
+            "backgroundColor": {}
+          },
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "HEADING_1",
+        "textStyle": {
+          "fontSize": {
+            "magnitude": 20,
+            "unit": "PT"
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "magnitude": 20,
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 6,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "HEADING_2",
+        "textStyle": {
+          "fontSize": {
+            "magnitude": 14,
+            "unit": "PT"
+          },
+          "weightedFontFamily": {
+            "fontFamily": "Lobster",
+            "weight": 400
+          }
+        },
+        "paragraphStyle": {
+          "headingId": "h.yyyg5vhwzt3y",
+          "namedStyleType": "HEADING_2",
+          "direction": "LEFT_TO_RIGHT",
+          "keepLinesTogether": true,
+          "keepWithNext": true
+        }
+      },
+      {
+        "namedStyleType": "HEADING_3",
+        "textStyle": {
+          "bold": false,
+          "foregroundColor": {
+            "color": {
+              "rgbColor": {
+                "red": 0.2627451,
+                "green": 0.2627451,
+                "blue": 0.2627451
+              }
+            }
+          },
+          "fontSize": {
+            "magnitude": 14,
+            "unit": "PT"
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "magnitude": 16,
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 4,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "HEADING_4",
+        "textStyle": {
+          "foregroundColor": {
+            "color": {
+              "rgbColor": {
+                "red": 0.4,
+                "green": 0.4,
+                "blue": 0.4
+              }
+            }
+          },
+          "fontSize": {
+            "magnitude": 12,
+            "unit": "PT"
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "magnitude": 14,
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 4,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "HEADING_5",
+        "textStyle": {
+          "foregroundColor": {
+            "color": {
+              "rgbColor": {
+                "red": 0.4,
+                "green": 0.4,
+                "blue": 0.4
+              }
+            }
+          },
+          "fontSize": {
+            "magnitude": 11,
+            "unit": "PT"
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "magnitude": 12,
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 4,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "HEADING_6",
+        "textStyle": {
+          "italic": true,
+          "foregroundColor": {
+            "color": {
+              "rgbColor": {
+                "red": 0.4,
+                "green": 0.4,
+                "blue": 0.4
+              }
+            }
+          },
+          "fontSize": {
+            "magnitude": 11,
+            "unit": "PT"
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "magnitude": 12,
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 4,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "TITLE",
+        "textStyle": {
+          "fontSize": {
+            "magnitude": 26,
+            "unit": "PT"
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 3,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      },
+      {
+        "namedStyleType": "SUBTITLE",
+        "textStyle": {
+          "italic": false,
+          "foregroundColor": {
+            "color": {
+              "rgbColor": {
+                "red": 0.4,
+                "green": 0.4,
+                "blue": 0.4
+              }
+            }
+          },
+          "fontSize": {
+            "magnitude": 15,
+            "unit": "PT"
+          },
+          "weightedFontFamily": {
+            "fontFamily": "Arial",
+            "weight": 400
+          }
+        },
+        "paragraphStyle": {
+          "namedStyleType": "NORMAL_TEXT",
+          "direction": "LEFT_TO_RIGHT",
+          "spaceAbove": {
+            "unit": "PT"
+          },
+          "spaceBelow": {
+            "magnitude": 16,
+            "unit": "PT"
+          },
+          "keepLinesTogether": true,
+          "keepWithNext": true,
+          "pageBreakBefore": false
+        }
+      }
+    ]
+  },
+  "suggestionsViewMode": "PREVIEW_WITHOUT_SUGGESTIONS",
+  "inlineObjects": {
+    "kix.2m79cn2ldibg": {
+      "objectId": "kix.2m79cn2ldibg",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdenWMY0FedGm3zACbKKfMFJt5NwmrJZUev4--_Etq0eRM2pj489I8Qgmb-Vh768bc7P2NHQIR5PloI2lzGlqDubbgO7rxJNTojtDEEYFJnXTXoeb_tBy6nm0B2oaFB_7rXua3BorIe1NjG1DxpGzInNmVW?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "title": "sdg-link-88",
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.2q6ozh2mcnwt": {
+      "objectId": "kix.2q6ozh2mcnwt",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQfDVZyQvgxDU-3T53YyLzP9AClpQO2diKo71ypc26effy9ie7Mg47mf0F5bTz-6bbjnUIo6y6MR8NyEijtg_fYaW91wuA9OeFTgux-DHsc4UyWosi4tS_4Mumg7WF-Qrk2UuMJ6IA8kbEb-eJol-MpmiL?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.ad2f257ld0c7": {
+      "objectId": "kix.ad2f257ld0c7",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdA19qGTmYh_cU9maaNxnoeNg6YB94_73ucav95f6q6v6GepprZ-UKDnR_I2kO3ohqXg-HZtYJkWiFPg5qAKjf3MLpnbYjPd0Gm2KUZvjkn597Cm0-o3cdXtA6N3OEZu-12Ii8ofjOYcA-bthaSVpKGEZBd?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.b1qsd1g53mrh": {
+      "objectId": "kix.b1qsd1g53mrh",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXckCCBzCf-mW3raAAiY8Xc_MBtss6p1_gOZjXL7zEaxlRt7jgAjLjEsqFyrgM6xlQk5tK-pODBXAC9ZGiFG4WIX5Trsvuwz9wFyCbeFi2wvOFXraq4VKFv4gl8bYMls8yagUa8cZdY56IRa5dy1pfsJ1Ok_?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "title": "sdg-link-99",
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.k2av8qkacb9a": {
+      "objectId": "kix.k2av8qkacb9a",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHeR20BPIuxbiktB6T7f8B-GZ_CYG7zMw8Hq9fAV6jiIgIYEudh3_FwOxViteBZsAmShxdVe0sD3qt1taafKK3OC3fXWHObMJRPSR67fJAlaDKvV8s7RdLLEmCADpEOHqY-58-xwzX6_QGuLMNQs4rsdqW?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "title": "sdg-link-69",
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.k98g92xs8c05": {
+      "objectId": "kix.k98g92xs8c05",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFePe5O_WDcilt3mr19FXo4BFp3tBxNnpKZWr3psTambISiCfvtFyvtoiZPwRUSQSeELcst4wOUm3QKZ6QWZuw7Bo3_1g11I5lU_fa8x-DlMdkC6tj2kTwaYnaccTzrcJKsycOr75vQFP1polxy0uy9X6E?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.kbm97vps1pep": {
+      "objectId": "kix.kbm97vps1pep",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZk-S2gwrOqB80-DsdIBrCWqCTjPSbM0DIjp93L3dCVbw7zXX9rhW0SqCVFbjFIdG2wWVyTeE8_jNFqsp0fyQRPq94p4InGAC6aM8KWmd5XHtORZZG5DsCJx_SoZ0Egipzrnis56Ktn8i-AkHcdRCFcovR?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "title": "sdg-link-NaN",
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.l9czrrbmhnoq": {
+      "objectId": "kix.l9czrrbmhnoq",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgIFJbbZbcau_36Mse0Xi2vlUFADU2RhuEhmqXPdeBRP37rnMQRS-TMRTekQvQ6FW1EheI5hIH-WkXoHBQ1eVa2TsbrQKXANFhd-VmqG1DDIt5UnqbxV0LlQDvYMnwtkDOujy7NiOUWWKzSaDxEumwz8Y?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.ost75hgbk2oc": {
+      "objectId": "kix.ost75hgbk2oc",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-lfDdVXeyq3qxXDwfZ3IfL5jfVz-QMTLehydQBBRmid9pAv8hWV-4cqfQNgqGGPmD5gCYd5E0zPHiYyyJyzAC1TbwMCZMTFBvJoBPzYK0luNN2EQMnuInK_2v2CgytG4j3Jjx11f-r2ZuyHdp-pdXjgk?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.rbxbaf29df98": {
+      "objectId": "kix.rbxbaf29df98",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2wix1FhMr9LbBhQlqmurV3gX7qtEnEs0_BbPCFOXH4YyLTo1SvMgGfS2HD9twPzi_LWsC1oIXFkhaAJvWaR0npOZexy8ojpwi3CpmUoT7XEMkD-_9eB8gJHfR8Rcpgl963lBoY3BnmZc_VoGrED9_nDI8?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "title": "sdg-link--1",
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.wq7nt5evvzvz": {
+      "objectId": "kix.wq7nt5evvzvz",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2rO3dglRSFRe2LQkWJLerpiR-e_jXossOa5Pj9Yt_zVJa0vinmruQJJa4JRipddEOvcBD7iVh7oBrp6cys7VC_M8-f2NBmcCMlDGqOnQ4o9PeVHZFqY_meBQcIaG6X0xmgN7Od_KvFM7r1u6uiDWyRh9p?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    },
+    "kix.xst96cvrimvk": {
+      "objectId": "kix.xst96cvrimvk",
+      "inlineObjectProperties": {
+        "embeddedObject": {
+          "imageProperties": {
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXetjT_2SHM0cskcekltcxUfJWCU22VBASWB3elvhXFchPUR0cDxbJiS9Q2xW5hZ85QHkSm5a-1G10nu70Skir1FOjF_JYiJewHkJC6kcbzzAsyUX2T8RHiPK83bqrzk4FM0i7BvG8FxW2T0uJtvpHznBxPD?key=4KRS21q5riw2sReZf3dYOA",
+            "cropProperties": {}
+          },
+          "title": "sdg-link-9999",
+          "embeddedObjectBorder": {
+            "color": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "width": {
+              "unit": "PT"
+            },
+            "dashStyle": "SOLID",
+            "propertyState": "NOT_RENDERED"
+          },
+          "size": {
+            "height": {
+              "magnitude": 22,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 75,
+              "unit": "PT"
+            }
+          },
+          "marginTop": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 1.5,
+            "unit": "PT"
+          }
+        }
+      }
+    }
+  },
+  "documentId": "1anYAMgYlQtawR2Yu9a4UAZUpmhmklfEHiDEcSizy2Qc"
+}
