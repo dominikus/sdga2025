@@ -6,7 +6,7 @@
 		"node": ">=16.14.0"
 	},
 	"scripts": {
-		"cms": "cd tasks && node fetch-archies.js",
+		"cms": "node set-env.js",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",

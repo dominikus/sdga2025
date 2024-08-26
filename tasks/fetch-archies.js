@@ -9,8 +9,7 @@ import { parse } from 'json2csv';
 const DEFAULT_LOCALE = 'en';
 const PRETTY_PRINT = true;
 
-const SERVICE_ACCOUNT_EMAIL = 'google-drive-notificator@sdga-2025.iam.gserviceaccount.com';
-const SERVICE_ACCOUNT_KEY = '../sdga-2025-e60cde04414a.json';
+const SERVICE_ACCOUNT_EMAIL = 'sdga2025@sdga-2025.iam.gserviceaccount.com';
 
 const IGNORED_FOR_TRANSLATIONS = [
 	'id',
@@ -30,9 +29,9 @@ const IGNORED_FOR_TRANSLATIONS = [
 ];
 const TRANSLATION_PREFIX_KEY = 'translationPrefix';
 
-const LIVE_PATH = '../static/data';
-const CSV_PATH = '../static/data';
-const TRANSLATIONS_PATH = '../static/i18n';
+const LIVE_PATH = './static/data';
+const CSV_PATH = './static/data';
+const TRANSLATIONS_PATH = './static/i18n';
 
 const availableLocales = ['en'];
 let locale = DEFAULT_LOCALE;
@@ -106,8 +105,9 @@ const parseDocBody = async (content, inlineObjects, goal) => {
 };
 
 // GOOGLE AUTHENTICATIONS:
+const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS);
 const gdocAuth = new docs.auth.GoogleAuth({
-	keyFilename: SERVICE_ACCOUNT_KEY,
+	credentials,
 	scopes: ['https://www.googleapis.com/auth/documents.readonly']
 });
 const gdocAuthClient = await gdocAuth.getClient();
@@ -118,7 +118,7 @@ const docsClient = await docs.docs({
 });
 
 const gdriveAuth = new drive.auth.GoogleAuth({
-	keyFilename: SERVICE_ACCOUNT_KEY,
+	credentials,
 	scopes: ['https://www.googleapis.com/auth/drive.readonly']
 });
 const gdriveAuthClient = await gdriveAuth.getClient();
