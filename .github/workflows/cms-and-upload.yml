@@ -1,0 +1,30 @@
+name: Fetch CMS Data and Upload Artifact
+
+on:
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  fetch-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20' # Adjust this to your project's Node version
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run CMS task
+        run: npm run cms
+        env:
+          # Add any environment variables your CMS task needs
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+
+      - name: Upload data artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: site-data
+          path: static/data/ # Adjust this to match your output directory
