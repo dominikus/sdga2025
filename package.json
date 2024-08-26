@@ -6,6 +6,7 @@
 		"node": ">=16.14.0"
 	},
 	"scripts": {
+		"prebuild": "node tasks/fetch-artifacts.js",
 		"cms": "node set-env.js",
 		"dev": "vite dev",
 		"build": "vite build",
@@ -21,7 +22,9 @@
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0-next.6",
 		"d3": "^7.9.0",
+		"dotenv": "^16.4.5",
 		"json2csv": "^6.0.0-alpha.2",
+		"jszip": "^3.10.1",
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
 		"svelte": "^5.0.0-next.1",

@@ -15,10 +15,9 @@ export async function load({ params, fetch }) {
 
 	try {
 		let parsedGoal = goal;
-		const response = await fetch(`/data/${parsedGoal}/${parsedGoal}.json`);
-		const doc = await response.json();
+		const response = await import(`$lib/data/${parsedGoal}/${parsedGoal}.json`);
 
-		return { goal: parsedGoal, doc };
+		return { goal: parsedGoal, doc: response };
 	} catch (e) {
 		console.log(e);
 		return { goal: 'goal00', doc: { content: [], config: {} } };
