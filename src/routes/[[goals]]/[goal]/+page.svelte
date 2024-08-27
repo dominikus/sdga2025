@@ -1,7 +1,17 @@
 <script>
 	export let data;
 
-	$: content = data?.doc?.text?.replace(/\n/g, '<br/>');
+	const fetchContent = async () => {
+		const response = await fetch(`/data/${data?.goal}/${data?.goal}.json`);
+		const doc = await response.json();
+		data.content = doc;
+	};
+
+	$: if (data && data?.goal && !data.content) {
+		fetchContent();
+	}
+
+	$: content = data?.content?.text?.replace(/\n/g, '<br/>');
 	$: console.log(content);
 </script>
 
