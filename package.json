@@ -6,7 +6,6 @@
 		"node": ">=16.14.0"
 	},
 	"scripts": {
-		"prebuild": "node tasks/fetch-artifacts.js",
 		"cms": "node tasks/fetch-archies.js",
 		"dev": "vite dev",
 		"build": "vite build",
