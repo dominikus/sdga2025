@@ -8,6 +8,7 @@ dotenv.config();
 
 async function fetchFromGitHub(repo, workflow, artifact) {
 	const token = process.env.GITHUB_TOKEN;
+	console.log(token);
 	const headers = { Authorization: `token ${token}` };
 
 	const runsResponse = await fetch(
