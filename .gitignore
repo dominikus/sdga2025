@@ -3,6 +3,7 @@ sdga-2025-c08a860b7dff.json
 
 # GH artifacts output
 src/lib/data/**
+static/data/**
 
 # Output
 .output
