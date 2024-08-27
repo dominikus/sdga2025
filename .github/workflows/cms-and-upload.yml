@@ -3,6 +3,9 @@ name: Fetch CMS Data and Upload Artifact
 on:
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   fetch-and-upload:
     runs-on: ubuntu-latest
