@@ -41,7 +41,7 @@ jobs:
       - name: Update JSON files
         run: |
           rm -rf gh-pages/static/data
-          cp -R static/data gh-pages/static/
+          cp -R static/data gh-pages/
 
       - name: Commit and push if changed
         run: |
