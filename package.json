@@ -7,7 +7,7 @@
 	},
 	"scripts": {
 		"prebuild": "node tasks/fetch-artifacts.js",
-		"cms": "node set-env.js",
+		"cms": "node tasks/fetch-archies.js",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",

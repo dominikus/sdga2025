@@ -6,6 +6,9 @@ import drive from '@googleapis/drive';
 import { autoType } from 'd3';
 import { parse } from 'json2csv';
 
+import dotenv from 'dotenv';
+dotenv.config();
+
 const DEFAULT_LOCALE = 'en';
 const PRETTY_PRINT = true;
 
@@ -29,9 +32,9 @@ const IGNORED_FOR_TRANSLATIONS = [
 ];
 const TRANSLATION_PREFIX_KEY = 'translationPrefix';
 
-const LIVE_PATH = './static/data';
-const CSV_PATH = './static/data';
-const TRANSLATIONS_PATH = './static/i18n';
+const LIVE_PATH = '../static/data';
+const CSV_PATH = '../static/data';
+const TRANSLATIONS_PATH = '../static/i18n';
 
 const availableLocales = ['en'];
 let locale = DEFAULT_LOCALE;

@@ -21,7 +21,7 @@ jobs:
         run: npm run cms
         env:
           # Add any environment variables your CMS task needs
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
 
       - name: Upload data artifact
         uses: actions/upload-artifact@v4
