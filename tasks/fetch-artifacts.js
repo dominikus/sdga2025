@@ -51,7 +51,7 @@ async function main() {
 	try {
 		const zip = await fetchFromGitHub('dominikus/sdga2025', 'cms-and-upload.yml', 'site-data');
 
-		const outputDir = path.join(process.cwd(), 'src', 'lib', 'data');
+		const outputDir = path.join(process.cwd(), 'static', 'data');
 		await fs.mkdir(outputDir, { recursive: true });
 
 		for (const [filename, file] of Object.entries(zip.files)) {
