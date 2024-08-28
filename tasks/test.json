@@ -55,7 +55,7 @@
       },
       {
         "startIndex": 49,
-        "endIndex": 445,
+        "endIndex": 471,
         "paragraph": {
           "elements": [
             {
@@ -70,15 +70,15 @@
             },
             {
               "startIndex": 54,
-              "endIndex": 185,
+              "endIndex": 211,
               "textRun": {
-                "content": " (updated test) calls for ending poverty by 2030. On the eve of the pandemic, 659 million people struggled on less than $2.15 a day",
+                "content": " (more updated tests, even more at 13:58) calls for ending poverty by 2030. On the eve of the pandemic, 659 million people struggled on less than $2.15 a day",
                 "textStyle": {}
               }
             },
             {
-              "startIndex": 185,
-              "endIndex": 186,
+              "startIndex": 211,
+              "endIndex": 212,
               "footnoteReference": {
                 "footnoteId": "kix.hrplxtapzzs4",
                 "footnoteNumber": "1",
@@ -86,16 +86,16 @@
               }
             },
             {
-              "startIndex": 186,
-              "endIndex": 188,
+              "startIndex": 212,
+              "endIndex": 214,
               "textRun": {
                 "content": ". ",
                 "textStyle": {}
               }
             },
             {
-              "startIndex": 188,
-              "endIndex": 201,
+              "startIndex": 214,
+              "endIndex": 227,
               "textRun": {
                 "content": "The pandemic ",
                 "textStyle": {
@@ -112,8 +112,8 @@
               }
             },
             {
-              "startIndex": 201,
-              "endIndex": 445,
+              "startIndex": 227,
+              "endIndex": 471,
               "textRun": {
                 "content": "halted years of progress in ending extreme poverty, expanding the number of extremely poor people by 70 million. Poor countries will need to grow to end extreme poverty and it can be done without significantly contributing to global emissions.\n",
                 "textStyle": {}
@@ -127,13 +127,13 @@
         }
       },
       {
-        "startIndex": 445,
-        "endIndex": 446,
+        "startIndex": 471,
+        "endIndex": 472,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 445,
-              "endIndex": 446,
+              "startIndex": 471,
+              "endIndex": 472,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -148,13 +148,13 @@
         }
       },
       {
-        "startIndex": 446,
-        "endIndex": 459,
+        "startIndex": 472,
+        "endIndex": 485,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 446,
-              "endIndex": 459,
+              "startIndex": 472,
+              "endIndex": 485,
               "textRun": {
                 "content": "this is text\n",
                 "textStyle": {}
@@ -169,13 +169,13 @@
         }
       },
       {
-        "startIndex": 459,
-        "endIndex": 460,
+        "startIndex": 485,
+        "endIndex": 486,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 459,
-              "endIndex": 460,
+              "startIndex": 485,
+              "endIndex": 486,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -190,21 +190,21 @@
         }
       },
       {
-        "startIndex": 460,
-        "endIndex": 514,
+        "startIndex": 486,
+        "endIndex": 540,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 460,
-              "endIndex": 513,
+              "startIndex": 486,
+              "endIndex": 539,
               "textRun": {
                 "content": "here's some test for an updated namedStyleType for H2",
                 "textStyle": {}
               }
             },
             {
-              "startIndex": 513,
-              "endIndex": 514,
+              "startIndex": 539,
+              "endIndex": 540,
               "textRun": {
                 "content": "\n",
                 "textStyle": {
@@ -224,13 +224,13 @@
         }
       },
       {
-        "startIndex": 514,
-        "endIndex": 515,
+        "startIndex": 540,
+        "endIndex": 541,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 514,
-              "endIndex": 515,
+              "startIndex": 540,
+              "endIndex": 541,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -319,13 +319,13 @@
         }
       },
       {
-        "startIndex": 515,
-        "endIndex": 516,
+        "startIndex": 541,
+        "endIndex": 542,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 515,
-              "endIndex": 516,
+              "startIndex": 541,
+              "endIndex": 542,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -340,13 +340,13 @@
         }
       },
       {
-        "startIndex": 516,
-        "endIndex": 517,
+        "startIndex": 542,
+        "endIndex": 543,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 516,
-              "endIndex": 517,
+              "startIndex": 542,
+              "endIndex": 543,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -361,28 +361,28 @@
         }
       },
       {
-        "startIndex": 517,
-        "endIndex": 1170,
+        "startIndex": 543,
+        "endIndex": 1196,
         "table": {
           "rows": 6,
           "columns": 2,
           "tableRows": [
             {
-              "startIndex": 518,
-              "endIndex": 541,
+              "startIndex": 544,
+              "endIndex": 567,
               "tableCells": [
                 {
-                  "startIndex": 519,
-                  "endIndex": 524,
+                  "startIndex": 545,
+                  "endIndex": 550,
                   "content": [
                     {
-                      "startIndex": 520,
-                      "endIndex": 524,
+                      "startIndex": 546,
+                      "endIndex": 550,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 520,
-                            "endIndex": 524,
+                            "startIndex": 546,
+                            "endIndex": 550,
                             "textRun": {
                               "content": "vis\n",
                               "textStyle": {}
@@ -404,17 +404,17 @@
                   }
                 },
                 {
-                  "startIndex": 524,
-                  "endIndex": 541,
+                  "startIndex": 550,
+                  "endIndex": 567,
                   "content": [
                     {
-                      "startIndex": 525,
-                      "endIndex": 541,
+                      "startIndex": 551,
+                      "endIndex": 567,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 525,
-                            "endIndex": 541,
+                            "startIndex": 551,
+                            "endIndex": 567,
                             "textRun": {
                               "content": "povertyscroller\n",
                               "textStyle": {}
@@ -442,21 +442,21 @@
               }
             },
             {
-              "startIndex": 541,
-              "endIndex": 551,
+              "startIndex": 567,
+              "endIndex": 577,
               "tableCells": [
                 {
-                  "startIndex": 542,
-                  "endIndex": 548,
+                  "startIndex": 568,
+                  "endIndex": 574,
                   "content": [
                     {
-                      "startIndex": 543,
-                      "endIndex": 548,
+                      "startIndex": 569,
+                      "endIndex": 574,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 543,
-                            "endIndex": 548,
+                            "startIndex": 569,
+                            "endIndex": 574,
                             "textRun": {
                               "content": "data\n",
                               "textStyle": {}
@@ -478,17 +478,17 @@
                   }
                 },
                 {
-                  "startIndex": 548,
-                  "endIndex": 551,
+                  "startIndex": 574,
+                  "endIndex": 577,
                   "content": [
                     {
-                      "startIndex": 549,
-                      "endIndex": 551,
+                      "startIndex": 575,
+                      "endIndex": 577,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 549,
-                            "endIndex": 551,
+                            "startIndex": 575,
+                            "endIndex": 577,
                             "textRun": {
                               "content": "…\n",
                               "textStyle": {}
@@ -516,21 +516,21 @@
               }
             },
             {
-              "startIndex": 551,
-              "endIndex": 678,
+              "startIndex": 577,
+              "endIndex": 704,
               "tableCells": [
                 {
-                  "startIndex": 552,
-                  "endIndex": 562,
+                  "startIndex": 578,
+                  "endIndex": 588,
                   "content": [
                     {
-                      "startIndex": 553,
-                      "endIndex": 562,
+                      "startIndex": 579,
+                      "endIndex": 588,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 553,
-                            "endIndex": 562,
+                            "startIndex": 579,
+                            "endIndex": 588,
                             "textRun": {
                               "content": "szfdsoij\n",
                               "textStyle": {}
@@ -552,25 +552,25 @@
                   }
                 },
                 {
-                  "startIndex": 562,
-                  "endIndex": 678,
+                  "startIndex": 588,
+                  "endIndex": 704,
                   "content": [
                     {
-                      "startIndex": 563,
-                      "endIndex": 677,
+                      "startIndex": 589,
+                      "endIndex": 703,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 563,
-                            "endIndex": 579,
+                            "startIndex": 589,
+                            "endIndex": 605,
                             "textRun": {
                               "content": "In 1990, nearly ",
                               "textStyle": {}
                             }
                           },
                           {
-                            "startIndex": 579,
-                            "endIndex": 595,
+                            "startIndex": 605,
+                            "endIndex": 621,
                             "textRun": {
                               "content": "2 billion people",
                               "textStyle": {
@@ -579,16 +579,16 @@
                             }
                           },
                           {
-                            "startIndex": 595,
-                            "endIndex": 615,
+                            "startIndex": 621,
+                            "endIndex": 641,
                             "textRun": {
                               "content": " worldwide lived in ",
                               "textStyle": {}
                             }
                           },
                           {
-                            "startIndex": 615,
-                            "endIndex": 630,
+                            "startIndex": 641,
+                            "endIndex": 656,
                             "textRun": {
                               "content": "extreme poverty",
                               "textStyle": {
@@ -605,8 +605,8 @@
                             }
                           },
                           {
-                            "startIndex": 630,
-                            "endIndex": 677,
+                            "startIndex": 656,
+                            "endIndex": 703,
                             "textRun": {
                               "content": " – in other words, on less than $2.15 per day.\n",
                               "textStyle": {}
@@ -621,13 +621,13 @@
                       }
                     },
                     {
-                      "startIndex": 677,
-                      "endIndex": 678,
+                      "startIndex": 703,
+                      "endIndex": 704,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 677,
-                            "endIndex": 678,
+                            "startIndex": 703,
+                            "endIndex": 704,
                             "textRun": {
                               "content": "\n",
                               "textStyle": {}
@@ -656,21 +656,21 @@
               }
             },
             {
-              "startIndex": 678,
-              "endIndex": 830,
+              "startIndex": 704,
+              "endIndex": 856,
               "tableCells": [
                 {
-                  "startIndex": 679,
-                  "endIndex": 687,
+                  "startIndex": 705,
+                  "endIndex": 713,
                   "content": [
                     {
-                      "startIndex": 680,
-                      "endIndex": 687,
+                      "startIndex": 706,
+                      "endIndex": 713,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 680,
-                            "endIndex": 687,
+                            "startIndex": 706,
+                            "endIndex": 713,
                             "textRun": {
                               "content": "scene2\n",
                               "textStyle": {}
@@ -692,25 +692,25 @@
                   }
                 },
                 {
-                  "startIndex": 687,
-                  "endIndex": 830,
+                  "startIndex": 713,
+                  "endIndex": 856,
                   "content": [
                     {
-                      "startIndex": 688,
-                      "endIndex": 830,
+                      "startIndex": 714,
+                      "endIndex": 856,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 688,
-                            "endIndex": 742,
+                            "startIndex": 714,
+                            "endIndex": 768,
                             "textRun": {
                               "content": "Between 1990 and 2019, the number of people living in ",
                               "textStyle": {}
                             }
                           },
                           {
-                            "startIndex": 742,
-                            "endIndex": 757,
+                            "startIndex": 768,
+                            "endIndex": 783,
                             "textRun": {
                               "content": "extreme poverty",
                               "textStyle": {
@@ -727,16 +727,16 @@
                             }
                           },
                           {
-                            "startIndex": 757,
-                            "endIndex": 817,
+                            "startIndex": 783,
+                            "endIndex": 843,
                             "textRun": {
                               "content": " was reduced by around 66 percent, from 2 billion to around ",
                               "textStyle": {}
                             }
                           },
                           {
-                            "startIndex": 817,
-                            "endIndex": 828,
+                            "startIndex": 843,
+                            "endIndex": 854,
                             "textRun": {
                               "content": "660 million",
                               "textStyle": {
@@ -745,8 +745,8 @@
                             }
                           },
                           {
-                            "startIndex": 828,
-                            "endIndex": 830,
+                            "startIndex": 854,
+                            "endIndex": 856,
                             "textRun": {
                               "content": ".\n",
                               "textStyle": {}
@@ -774,21 +774,21 @@
               }
             },
             {
-              "startIndex": 830,
-              "endIndex": 1164,
+              "startIndex": 856,
+              "endIndex": 1190,
               "tableCells": [
                 {
-                  "startIndex": 831,
-                  "endIndex": 839,
+                  "startIndex": 857,
+                  "endIndex": 865,
                   "content": [
                     {
-                      "startIndex": 832,
-                      "endIndex": 839,
+                      "startIndex": 858,
+                      "endIndex": 865,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 832,
-                            "endIndex": 839,
+                            "startIndex": 858,
+                            "endIndex": 865,
                             "textRun": {
                               "content": "scene3\n",
                               "textStyle": {}
@@ -810,25 +810,25 @@
                   }
                 },
                 {
-                  "startIndex": 839,
-                  "endIndex": 1164,
+                  "startIndex": 865,
+                  "endIndex": 1190,
                   "content": [
                     {
-                      "startIndex": 840,
-                      "endIndex": 1164,
+                      "startIndex": 866,
+                      "endIndex": 1190,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 840,
-                            "endIndex": 954,
+                            "startIndex": 866,
+                            "endIndex": 980,
                             "textRun": {
                               "content": "Over the same period, the world’s population increased by around 2.4 billion people and the number of people with ",
                               "textStyle": {}
                             }
                           },
                           {
-                            "startIndex": 954,
-                            "endIndex": 998,
+                            "startIndex": 980,
+                            "endIndex": 1024,
                             "textRun": {
                               "content": "incomes above the international poverty line",
                               "textStyle": {
@@ -845,16 +845,16 @@
                             }
                           },
                           {
-                            "startIndex": 998,
-                            "endIndex": 999,
+                            "startIndex": 1024,
+                            "endIndex": 1025,
                             "textRun": {
                               "content": " ",
                               "textStyle": {}
                             }
                           },
                           {
-                            "startIndex": 999,
-                            "endIndex": 1038,
+                            "startIndex": 1025,
+                            "endIndex": 1064,
                             "textRun": {
                               "content": "increased from 3.3 billion to 7 billion",
                               "textStyle": {
@@ -863,8 +863,8 @@
                             }
                           },
                           {
-                            "startIndex": 1038,
-                            "endIndex": 1164,
+                            "startIndex": 1064,
+                            "endIndex": 1190,
                             "textRun": {
                               "content": ". As a result, the share of the global population living in extreme poverty was reduced from about 38 percent to 8.5 percent.\n",
                               "textStyle": {}
@@ -892,21 +892,21 @@
               }
             },
             {
-              "startIndex": 1164,
-              "endIndex": 1169,
+              "startIndex": 1190,
+              "endIndex": 1195,
               "tableCells": [
                 {
-                  "startIndex": 1165,
-                  "endIndex": 1167,
+                  "startIndex": 1191,
+                  "endIndex": 1193,
                   "content": [
                     {
-                      "startIndex": 1166,
-                      "endIndex": 1167,
+                      "startIndex": 1192,
+                      "endIndex": 1193,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 1166,
-                            "endIndex": 1167,
+                            "startIndex": 1192,
+                            "endIndex": 1193,
                             "textRun": {
                               "content": "\n",
                               "textStyle": {}
@@ -928,17 +928,17 @@
                   }
                 },
                 {
-                  "startIndex": 1167,
-                  "endIndex": 1169,
+                  "startIndex": 1193,
+                  "endIndex": 1195,
                   "content": [
                     {
-                      "startIndex": 1168,
-                      "endIndex": 1169,
+                      "startIndex": 1194,
+                      "endIndex": 1195,
                       "paragraph": {
                         "elements": [
                           {
-                            "startIndex": 1168,
-                            "endIndex": 1169,
+                            "startIndex": 1194,
+                            "endIndex": 1195,
                             "textRun": {
                               "content": "\n",
                               "textStyle": {}
@@ -988,13 +988,13 @@
         }
       },
       {
-        "startIndex": 1170,
-        "endIndex": 1171,
+        "startIndex": 1196,
+        "endIndex": 1197,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1170,
-              "endIndex": 1171,
+              "startIndex": 1196,
+              "endIndex": 1197,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1009,13 +1009,13 @@
         }
       },
       {
-        "startIndex": 1171,
-        "endIndex": 1172,
+        "startIndex": 1197,
+        "endIndex": 1198,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1171,
-              "endIndex": 1172,
+              "startIndex": 1197,
+              "endIndex": 1198,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1030,13 +1030,13 @@
         }
       },
       {
-        "startIndex": 1172,
-        "endIndex": 1173,
+        "startIndex": 1198,
+        "endIndex": 1199,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1172,
-              "endIndex": 1173,
+              "startIndex": 1198,
+              "endIndex": 1199,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1051,13 +1051,13 @@
         }
       },
       {
-        "startIndex": 1173,
-        "endIndex": 1174,
+        "startIndex": 1199,
+        "endIndex": 1200,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1173,
-              "endIndex": 1174,
+              "startIndex": 1199,
+              "endIndex": 1200,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1072,13 +1072,13 @@
         }
       },
       {
-        "startIndex": 1174,
-        "endIndex": 1175,
+        "startIndex": 1200,
+        "endIndex": 1201,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1174,
-              "endIndex": 1175,
+              "startIndex": 1200,
+              "endIndex": 1201,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1093,13 +1093,13 @@
         }
       },
       {
-        "startIndex": 1175,
-        "endIndex": 1176,
+        "startIndex": 1201,
+        "endIndex": 1202,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1175,
-              "endIndex": 1176,
+              "startIndex": 1201,
+              "endIndex": 1202,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1114,13 +1114,13 @@
         }
       },
       {
-        "startIndex": 1176,
-        "endIndex": 1177,
+        "startIndex": 1202,
+        "endIndex": 1203,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1176,
-              "endIndex": 1177,
+              "startIndex": 1202,
+              "endIndex": 1203,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1135,13 +1135,13 @@
         }
       },
       {
-        "startIndex": 1177,
-        "endIndex": 1178,
+        "startIndex": 1203,
+        "endIndex": 1204,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1177,
-              "endIndex": 1178,
+              "startIndex": 1203,
+              "endIndex": 1204,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1156,13 +1156,13 @@
         }
       },
       {
-        "startIndex": 1178,
-        "endIndex": 1179,
+        "startIndex": 1204,
+        "endIndex": 1205,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1178,
-              "endIndex": 1179,
+              "startIndex": 1204,
+              "endIndex": 1205,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1177,13 +1177,13 @@
         }
       },
       {
-        "startIndex": 1179,
-        "endIndex": 1180,
+        "startIndex": 1205,
+        "endIndex": 1206,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1179,
-              "endIndex": 1180,
+              "startIndex": 1205,
+              "endIndex": 1206,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1198,13 +1198,13 @@
         }
       },
       {
-        "startIndex": 1180,
-        "endIndex": 1181,
+        "startIndex": 1206,
+        "endIndex": 1207,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1180,
-              "endIndex": 1181,
+              "startIndex": 1206,
+              "endIndex": 1207,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1219,13 +1219,13 @@
         }
       },
       {
-        "startIndex": 1181,
-        "endIndex": 1182,
+        "startIndex": 1207,
+        "endIndex": 1208,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1181,
-              "endIndex": 1182,
+              "startIndex": 1207,
+              "endIndex": 1208,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1240,13 +1240,13 @@
         }
       },
       {
-        "startIndex": 1182,
-        "endIndex": 1183,
+        "startIndex": 1208,
+        "endIndex": 1209,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1182,
-              "endIndex": 1183,
+              "startIndex": 1208,
+              "endIndex": 1209,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1261,13 +1261,13 @@
         }
       },
       {
-        "startIndex": 1183,
-        "endIndex": 1184,
+        "startIndex": 1209,
+        "endIndex": 1210,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1183,
-              "endIndex": 1184,
+              "startIndex": 1209,
+              "endIndex": 1210,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1282,13 +1282,13 @@
         }
       },
       {
-        "startIndex": 1184,
-        "endIndex": 1185,
+        "startIndex": 1210,
+        "endIndex": 1211,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1184,
-              "endIndex": 1185,
+              "startIndex": 1210,
+              "endIndex": 1211,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1303,13 +1303,13 @@
         }
       },
       {
-        "startIndex": 1185,
-        "endIndex": 1186,
+        "startIndex": 1211,
+        "endIndex": 1212,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1185,
-              "endIndex": 1186,
+              "startIndex": 1211,
+              "endIndex": 1212,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1324,13 +1324,13 @@
         }
       },
       {
-        "startIndex": 1186,
-        "endIndex": 1187,
+        "startIndex": 1212,
+        "endIndex": 1213,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1186,
-              "endIndex": 1187,
+              "startIndex": 1212,
+              "endIndex": 1213,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1345,13 +1345,13 @@
         }
       },
       {
-        "startIndex": 1187,
-        "endIndex": 1188,
+        "startIndex": 1213,
+        "endIndex": 1214,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1187,
-              "endIndex": 1188,
+              "startIndex": 1213,
+              "endIndex": 1214,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1366,13 +1366,13 @@
         }
       },
       {
-        "startIndex": 1188,
-        "endIndex": 1189,
+        "startIndex": 1214,
+        "endIndex": 1215,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1188,
-              "endIndex": 1189,
+              "startIndex": 1214,
+              "endIndex": 1215,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1387,13 +1387,13 @@
         }
       },
       {
-        "startIndex": 1189,
-        "endIndex": 1228,
+        "startIndex": 1215,
+        "endIndex": 1254,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1189,
-              "endIndex": 1228,
+              "startIndex": 1215,
+              "endIndex": 1254,
               "textRun": {
                 "content": "Requirements Atlas Infrastructure 2025\n",
                 "textStyle": {}
@@ -1409,13 +1409,13 @@
         }
       },
       {
-        "startIndex": 1228,
-        "endIndex": 1295,
+        "startIndex": 1254,
+        "endIndex": 1321,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1228,
-              "endIndex": 1295,
+              "startIndex": 1254,
+              "endIndex": 1321,
               "textRun": {
                 "content": "- writers should be able to update content in staging/live-version\n",
                 "textStyle": {}
@@ -1430,13 +1430,13 @@
         }
       },
       {
-        "startIndex": 1295,
-        "endIndex": 1414,
+        "startIndex": 1321,
+        "endIndex": 1440,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1295,
-              "endIndex": 1414,
+              "startIndex": 1321,
+              "endIndex": 1440,
               "textRun": {
                 "content": "- components (e.g., references, links, headlines, text background colors) should be available in editor UI (no markup)\n",
                 "textStyle": {}
@@ -1451,13 +1451,13 @@
         }
       },
       {
-        "startIndex": 1414,
-        "endIndex": 1461,
+        "startIndex": 1440,
+        "endIndex": 1487,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1414,
-              "endIndex": 1461,
+              "startIndex": 1440,
+              "endIndex": 1487,
               "textRun": {
                 "content": "- styling of text should be possible in editor\n",
                 "textStyle": {}
@@ -1472,13 +1472,13 @@
         }
       },
       {
-        "startIndex": 1461,
-        "endIndex": 1508,
+        "startIndex": 1487,
+        "endIndex": 1534,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1461,
-              "endIndex": 1508,
+              "startIndex": 1487,
+              "endIndex": 1534,
               "textRun": {
                 "content": "- Design tokens should be available to writers\n",
                 "textStyle": {}
@@ -1493,13 +1493,13 @@
         }
       },
       {
-        "startIndex": 1508,
-        "endIndex": 1553,
+        "startIndex": 1534,
+        "endIndex": 1579,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1508,
-              "endIndex": 1553,
+              "startIndex": 1534,
+              "endIndex": 1579,
               "textRun": {
                 "content": "- Translations should not involve developers\n",
                 "textStyle": {}
@@ -1514,13 +1514,13 @@
         }
       },
       {
-        "startIndex": 1553,
-        "endIndex": 1591,
+        "startIndex": 1579,
+        "endIndex": 1617,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1553,
-              "endIndex": 1591,
+              "startIndex": 1579,
+              "endIndex": 1617,
               "textRun": {
                 "content": "- collaboration among writers/editors\n",
                 "textStyle": {}
@@ -1535,13 +1535,13 @@
         }
       },
       {
-        "startIndex": 1591,
-        "endIndex": 1592,
+        "startIndex": 1617,
+        "endIndex": 1618,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1591,
-              "endIndex": 1592,
+              "startIndex": 1617,
+              "endIndex": 1618,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1556,13 +1556,13 @@
         }
       },
       {
-        "startIndex": 1592,
-        "endIndex": 1593,
+        "startIndex": 1618,
+        "endIndex": 1619,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1592,
-              "endIndex": 1593,
+              "startIndex": 1618,
+              "endIndex": 1619,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1577,13 +1577,13 @@
         }
       },
       {
-        "startIndex": 1593,
-        "endIndex": 1628,
+        "startIndex": 1619,
+        "endIndex": 1654,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1593,
-              "endIndex": 1628,
+              "startIndex": 1619,
+              "endIndex": 1654,
               "textRun": {
                 "content": "noew here's some actual change yay\n",
                 "textStyle": {}
@@ -1598,13 +1598,13 @@
         }
       },
       {
-        "startIndex": 1628,
-        "endIndex": 1629,
+        "startIndex": 1654,
+        "endIndex": 1655,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1628,
-              "endIndex": 1629,
+              "startIndex": 1654,
+              "endIndex": 1655,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1619,29 +1619,29 @@
         }
       },
       {
-        "startIndex": 1629,
-        "endIndex": 1689,
+        "startIndex": 1655,
+        "endIndex": 1715,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1629,
-              "endIndex": 1661,
+              "startIndex": 1655,
+              "endIndex": 1687,
               "textRun": {
                 "content": "and here's a link to a chapter: ",
                 "textStyle": {}
               }
             },
             {
-              "startIndex": 1661,
-              "endIndex": 1662,
+              "startIndex": 1687,
+              "endIndex": 1688,
               "inlineObjectElement": {
                 "inlineObjectId": "kix.eo6rf3m4dnce",
                 "textStyle": {}
               }
             },
             {
-              "startIndex": 1662,
-              "endIndex": 1689,
+              "startIndex": 1688,
+              "endIndex": 1715,
               "textRun": {
                 "content": " in the middle of the text\n",
                 "textStyle": {}
@@ -1656,13 +1656,13 @@
         }
       },
       {
-        "startIndex": 1689,
-        "endIndex": 1690,
+        "startIndex": 1715,
+        "endIndex": 1716,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1689,
-              "endIndex": 1690,
+              "startIndex": 1715,
+              "endIndex": 1716,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1751,13 +1751,13 @@
         }
       },
       {
-        "startIndex": 1690,
-        "endIndex": 1691,
+        "startIndex": 1716,
+        "endIndex": 1717,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1690,
-              "endIndex": 1691,
+              "startIndex": 1716,
+              "endIndex": 1717,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1846,13 +1846,13 @@
         }
       },
       {
-        "startIndex": 1691,
-        "endIndex": 1692,
+        "startIndex": 1717,
+        "endIndex": 1718,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1691,
-              "endIndex": 1692,
+              "startIndex": 1717,
+              "endIndex": 1718,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -1941,13 +1941,13 @@
         }
       },
       {
-        "startIndex": 1692,
-        "endIndex": 1693,
+        "startIndex": 1718,
+        "endIndex": 1719,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1692,
-              "endIndex": 1693,
+              "startIndex": 1718,
+              "endIndex": 1719,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2036,13 +2036,13 @@
         }
       },
       {
-        "startIndex": 1693,
-        "endIndex": 1694,
+        "startIndex": 1719,
+        "endIndex": 1720,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1693,
-              "endIndex": 1694,
+              "startIndex": 1719,
+              "endIndex": 1720,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2131,13 +2131,13 @@
         }
       },
       {
-        "startIndex": 1694,
-        "endIndex": 1695,
+        "startIndex": 1720,
+        "endIndex": 1721,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1694,
-              "endIndex": 1695,
+              "startIndex": 1720,
+              "endIndex": 1721,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2226,13 +2226,13 @@
         }
       },
       {
-        "startIndex": 1695,
-        "endIndex": 1696,
+        "startIndex": 1721,
+        "endIndex": 1722,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1695,
-              "endIndex": 1696,
+              "startIndex": 1721,
+              "endIndex": 1722,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2321,13 +2321,13 @@
         }
       },
       {
-        "startIndex": 1696,
-        "endIndex": 1697,
+        "startIndex": 1722,
+        "endIndex": 1723,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1696,
-              "endIndex": 1697,
+              "startIndex": 1722,
+              "endIndex": 1723,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2416,13 +2416,13 @@
         }
       },
       {
-        "startIndex": 1697,
-        "endIndex": 1698,
+        "startIndex": 1723,
+        "endIndex": 1724,
         "paragraph": {
           "elements": [
             {
-              "startIndex": 1697,
-              "endIndex": 1698,
+              "startIndex": 1723,
+              "endIndex": 1724,
               "textRun": {
                 "content": "\n",
                 "textStyle": {}
@@ -2937,7 +2937,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsoBct2MU4Da3y6KghjfeLDAcGdz2D1HyDknQE1DF9te9gtszYdbmTJlxNrZMzpeIfLeB_85uFG_6mhEWn4wEEO8776Bk5CXVVClQ1RsJQXU9EyO4DCjU7Dlz8X-BqtFg2S2i0ZYdJ6wWNn2r-7MulW0dr?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXczAroDAPPcdUXpkd-7U-2x8fyMXaI1-e-5ymmKUkID9iYCdkGKYGq7mOvk6X9wdHoTmf70OAXpwqXxDKjmLWIEWFSqdHoqvMQ_SaMf9Gkq9DreUxpz63VNwfK5Hk6FwDiizgws0BGyJ2FLv6JsWycjTux-?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-88",
@@ -2987,7 +2987,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0-u8OefqPHCpcI9CA82TaST-uikJGmdi8xRoyXwGeU2q4CDsi3l1oLLqbP5-ApsOChx7uobN0GRDWrAQYtYWCisFRR-2zVCMRbMdZTSH1f1_n6ndZG13NCK6R_KvHDTL1UHG7xNFsRXC_qyi1m0gPxIp7?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXznvX5Va0ScdVjc_J8CTXU8KEoU-cJDk9cPd-wHWrEAum4hPRCH5gy84ahV8fIHsxSyuSSHmHiqXSTL3uUyzyM53Xs_SRFaqboiZRCrcnDvS-JtyGD-AV0jEPYb-hfQ3PxjTKUm8hDTfRIS9LZ9kzgTq7?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3036,7 +3036,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXco-R70C8CoTX9u8kKj2RPq6SoFPTC9uNSfh6JgV4VcOJyAj6nfSqhVPASFTnqqDegfJOGdJT6Bc9XKwKSHWuBRiSyp8tTfoCpRPjHNJeq8rnlvjOfigTtFjVA9CSBTqJFUNRKwkC0ZFE1QP_kVFFYFdv7i?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWq4jd-Cz9k1OfPgVokAejnnWWkGQ1fEtHr3Bu3iEuZKmJ6I-g15x6askpex-LTCyrR0S7ijv0APMbm58-P_ZHvhv4uBUNEb8Ov3BHTcXzj3io3UNKzhK1akvfIX1FVe4jEp6yuaWQQ-7bzJnKT6Pc4kzZ?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3085,7 +3085,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvENAeKBAYgzUiB4M8y0VpILZC5_gr0LcOvOmcRBUGsr50pEQ8kcLV-mWDaMZoondME-CodT2JG0jiTP8Q2gyZvw-37pXH1XrfMbT177YXik34pZO3LPubukK87O1ZXnwra5UrLp1mzNIQ-Fm1Dr6KKJra?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDnP3_wkJ2n7cdBa78ebjqFSNFtX3tpk4ReJt2LtB32Syaf6qmHe0s4MmkMO7CHrynLe--9BiqFmbll-CX1y5kuRQ3YpSWB3ACNjnsE71faKirapOvGh3OzAPQL4qib83Y9fbK1sn9EpU2Ud9o1ZLVGr4U?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-99",
@@ -3135,7 +3135,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdhCPSp6tbMV3AtW_2p_yYXxIOXPo8K56bNewyS0Czcme178OFuc2T47D8xAWwzrHh5e94YvMzAster8p58L9XLJpa_RBdJ7GW05SZ_2LOHgoU7Ev4-CfQstE20gyyVUObl7DfFQQFf7N_k_9xJSZsqk8C2?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvXLFm4NP5eyAFL_ISfzO3X6czGqoRZEmoHr28u1h2lxXgkw3Cuh5b3Hw8Tr7nLdZEmLlvfVTtCn5pg0HxM2TeIxvrO89crEkyu2zerYK4qYkyoK-EPCRnJZrkdksqDk2JjWDXwf9PV0fABInFwp4dYVxr?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-12",
@@ -3185,7 +3185,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWu9X5LVhyDuCZ38S6Uux4c2gXXsC0IhhnnlGh2m2UupvNesv-LjbAzxHgb4jz89nS-bAYlQtSiSRWquNHXqSmvNwqX6jj3NxErzvTrQG6n34eiijdMG4ZFjudBL96VDusupFYl1Jjks5fzP-yMwpPD73P?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYZj6ue7NY6G3SwWyAuPCeFqHurd8XNT-05c7lqrUCxqfjNK9qRNW9bvhwMIDI0l-WOaFJuVNsb-p6Ho4CkySt1U11aLWr234p2YUtd-tOgF-iH9MP1uZuZitKdRr_9TjWhinR5DrNdtYrVE88tyU1uySE?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3234,7 +3234,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3tN5jw468bW4qHc-8vG6yb2iXN8oEaXtiVYUL9EypB9DDoOlUZ665NXuYoffcJ_1CNVeMtsQwpnqMq98NG_xejmqCGln-ZmA_fG5KEQ2hKcEjDXqq1Eu0z3AKyjGECtze8pOVbeE5kbPnlftPF_wnUDMm?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5-yoc50SIsTDJPKkELlIdg9DGaQegv_IuYHkVSFirr-D-31JD97TvHpuz9v8anaUshxYtcIEXHyDSVLKFzqKn82qcxDIxrw2h5I7-0franF3We3HLxAJlvvK2ayJ6J671YwSPqOVwWpkn2ia06VsjsjqO?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-NaN",
@@ -3284,7 +3284,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfktthfldPa6nIhW9j7yX4NzTMh3KUNlO2-kDxA3X8WIT4CeTPjN7zmdSfxjRFp-maCXUgSZTFCeS9r-DriYnLagDbokd912LaEvUQQ7RiC56yYvKTAcHZwhGMBL0Jf_lne4_nAhmN0cJbCoFQTCEEjik?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkaz7YfMJ1HI9NzWpwnjmPxWh8ggyPffe8fiJpQZRSTGBP1Iux88vKfvWoE-e7tQVA8gGEt_IO3QalBBiw7CoTdznnrBtpIvfAt1ucEjmCm_vq_WYj1QBLvde5uFgNjxOsOtTBeZdtQOmn9wuO8BnteR4?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3333,7 +3333,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXckQ43-s2TORIj3_-uPA0j1aS5c9CRigDCygrEJyyjFPlTQpL7CzmrdRjOZVLWdtsikk9h6gTiTk04e3HQrzSUbhJ3aCB9mQ3xtOGSK3tqUnRxpvkJQ9JzalYtMBe2s4aMAnhrGVf0zT619-PFrOIuEKWg?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXed8T7JQbq5HxZV1vOBJo9vp_d_IlKcQxW7Hk97xtFEH4m0y6gYNryRv8HvvP1HvgNPF_VEXqKG5KlaoVtHx5ifS206SbTJcpqHiPgECWT4iagQK2DEhdZsb7FbExzBQe-t0B_Tp-sVxNeGUId38yVsnzk?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3382,7 +3382,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdnApW1nhLdSo52bY9rrQtLthHEnewY0pJnaSJQTtHwI5aqgIcb4VX9ptY7m8_NatQNGJ5B1NtLngp7Zg-y3oI8_8Vs-iaOKFIiCSemyAEFBetss0Wu0UNsnApam5S_CjncuLC9LzoaUgfIQ3Eo91wU1Faz?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfH1e7l6ak4Lpk9eZmrU_e8SLa9fQIrzpSludZVzwoD3k1FZF5qGoGT2QaGJezKboZU9IZS-AK7uwNGYeQKctvcIQROApMUoWhkCxm5PO18s0ZGIJtTvIkSlyrrFcS3oIWVQ3ZxPRK1NCOIWEKSP5xPKdci?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3431,7 +3431,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjf5eJogEcS6J9vGZQARUZi9FOv2u29kVY2hyU0xRf-RZXPt9pDkutQAjglje914rWSvPMPbC_h_R1MmIbg8Op0FWehhv4fBIxvyBy2sz9qnKFNnXtiDR5oKsBkZmukxSz1l8VE2UTyXo2lXJyNFWZM1gQ?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_gEIzCrwMr3Za7wNDxWjxMVQ68f6Cv3eFxrHUNPFac5FEbN4T45Ad1_orjdcyT7DlhQlJb-Jxb8NAm6tlgI5pWyGzK4AXh2_mmjm1O2QYwsdBpdg1apFWbKLuTszIIOfALQEbmosqWpPdbRVrUP94Xig2?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link--1",
@@ -3481,7 +3481,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqchFd7ZoT83zfuycsUwF7pwm6l8bBTC1q0r9s_TYmn6jMHGIMbuFk0Xp6HuVrFpWJsttUmd05WREE3sYzaY3IH70tabFewJ4Il6StxAhGi7lgcGOg9a8k3ZuIjWSZ40bp2ueyCBkMLdq7fysEF8XQZUj2?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1MTiynimaJ65uJp7aQfeZy7swvyAqQnNwY2NHnIUsOc_mPw5D9b3k_dfSkrMlClkCH9uCVTgXrMRAkmwKV9IiuQ-7GOmN2Mohw3SGgC0pXGmWjpapFUrDrq1rXNujxXh5DknH-ZUmyeMJMG5hUJyn29wf?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "embeddedObjectBorder": {
@@ -3530,7 +3530,7 @@
       "inlineObjectProperties": {
         "embeddedObject": {
           "imageProperties": {
-            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnMMRo4rXmqT8VT4KWKv0ziueNrzOOYh5BWfbgzbEKQjSlXdh_zzxFPl_d9O7AX-Vs7ok0J4ul-CgyMlzL_nY9tnOIkO8srjQ-_CfnbZfkT8fEAWMEcVcLEms9qw9iGHXQdHwxiVE5_pu3AtZgRPvE8-5-?key=4KRS21q5riw2sReZf3dYOA",
+            "contentUri": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXems7HfCECurV8feQHQkJxnMPdye7tbcno-q03fWQ-Ta_RLLRFDfG5r_3Y1GdzTKJzzDReM6lfBy7HQDYaqkh5A0s1RhqA7GpayH_iu06HmhOnl2Txp9RrKmUdJ8WkJrZGb93cLnCdq-PLrDKv2XZNnmaEn?key=4KRS21q5riw2sReZf3dYOA",
             "cropProperties": {}
           },
           "title": "sdg-link-9999",

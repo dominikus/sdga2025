@@ -3,7 +3,7 @@ import { URL } from 'url';
 
 import docs from '@googleapis/docs';
 import drive from '@googleapis/drive';
-import { autoType } from 'd3';
+import { tsvFormat } from 'd3';
 import { parse } from 'json2csv';
 
 import dotenv from 'dotenv';
@@ -284,7 +284,8 @@ if (!fs.existsSync(translationsPath)) {
 	try {
 		// parse Google Docs file:
 		const result = await fetchGoogleDoc({ id: d.googledoc[DEFAULT_LOCALE] }, d.filename);
-		const parsed = { text: result.parsed };
+		console.log(result.parsed);
+		const parsed = tsvFormat([{ text: result.parsed.replaceAll('\n', '\\n') }]);
 
 		if (parsed) {
 			// create /src/data/goalXX directory (for live data and .archie) if it doesn't exist:
@@ -298,12 +299,11 @@ if (!fs.existsSync(translationsPath)) {
 				fs.mkdirSync(csvDataPath, { recursive: true });
 			}
 
-			// save JSONified Google Doc file:
-			const filePath = new URL(`${LIVE_PATH}/${d.filename}/${d.filename}.json`, import.meta.url)
+			// save CSVified Google Doc file:
+			const filePath = new URL(`${LIVE_PATH}/${d.filename}/${d.filename}.csv`, import.meta.url)
 				.pathname;
-			const str = PRETTY_PRINT ? JSON.stringify(parsed, null, 2) : JSON.stringify(parsed);
 
-			fs.writeFileSync(filePath, str);
+			fs.writeFileSync(filePath, parsed);
 			console.log('storing Google Doc in ' + filePath);
 		}
 	} catch (err) {

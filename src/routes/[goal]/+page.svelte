@@ -1,17 +1,22 @@
 <script>
+	import { onMount } from 'svelte';
+	import { tsvParse } from 'd3';
+
 	export let data;
 
-	const fetchContent = async () => {
-		const response = await fetch(`/data/${data?.goal}/${data?.goal}.json`);
-		const doc = await response.json();
-		data.content = doc;
-	};
+	onMount(() => {
+		const fetchContent = async () => {
+			const response = await fetch(`/data/${data?.goal}/${data?.goal}.csv`);
+			const doc = await response.text();
+			data.content = tsvParse(doc)?.[0];
+		};
 
-	$: if (data && data?.goal && !data.content) {
-		fetchContent();
-	}
+		if (data && data?.goal && !data.content) {
+			fetchContent();
+		}
+	});
 
-	$: content = data?.content?.text?.replace(/\n/g, '<br/>');
+	$: content = data?.content?.text.replaceAll(/\\n/g, '<br/>');
 	$: console.log(content);
 </script>
 

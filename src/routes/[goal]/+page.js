@@ -14,7 +14,7 @@ export async function load({ params, fetch }) {
 	console.log('yolo:', params, goal);
 
 	try {
-		let parsedGoal = goal;
+		let parsedGoal = goal.replace('.html', '');
 		//const response = await fetch(`/data/${parsedGoal}/${parsedGoal}.json`);
 		//const doc = await response.json();
 
