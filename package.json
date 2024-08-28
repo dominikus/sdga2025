@@ -8,7 +8,7 @@
 	"scripts": {
 		"cms": "node tasks/fetch-archies.js",
 		"dev": "vite dev",
-		"build": "vite build",
+		"build": "vite build && touch build/.nojekyll",
 		"preview": "vite preview",
 		"lint": "prettier --check .",
 		"format": "prettier --write ."
