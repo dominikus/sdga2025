@@ -6,7 +6,7 @@
 
 	onMount(() => {
 		const fetchContent = async () => {
-			const response = await fetch(`/data/${data?.goal}/${data?.goal}.csv`);
+			const response = await fetch(`./data/${data?.goal}/${data?.goal}.csv`);
 			const doc = await response.text();
 			data.content = tsvParse(doc)?.[0];
 		};
