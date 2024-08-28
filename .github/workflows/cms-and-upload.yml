@@ -2,6 +2,8 @@ name: Fetch CMS Data and Upload Artifact
 
 on:
   workflow_dispatch: # Allows manual triggering
+  repository_dispatch:
+    types: [apps_script_trigger]
 
 permissions:
   contents: write
