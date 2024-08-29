@@ -34,21 +34,32 @@ jobs:
           name: site-data
           path: static/data/
 
-      - name: Checkout gh-pages branch
-        uses: actions/checkout@v4
+      - name: Install data server ssh file
+        uses: shimataro/ssh-key-action@v2.7.0
         with:
-          ref: gh-pages
-          path: gh-pages
+          key: ${{ secrets.DATA_SERVER_SSH_PRIVATE_KEY }}
 
-      - name: Update JSON files
+      - name: Update data server files
         run: |
-          rm -rf gh-pages/static/data
-          cp -R static/data gh-pages/
+          sftp ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data <<EOF
+          put -r static/data
+          EOF
 
-      - name: Commit and push if changed
-        run: |
-          cd gh-pages
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update content files" && git push)
+      # - name: Checkout gh-pages branch
+      #   uses: actions/checkout@v4
+      #   with:
+      #     ref: gh-pages
+      #     path: gh-pages
+
+      # - name: Update JSON files
+      #   run: |
+      #     rm -rf gh-pages/static/data
+      #     cp -R static/data gh-pages/
+
+      # - name: Commit and push if changed
+      #   run: |
+      #     cd gh-pages
+      #     git config user.name github-actions
+      #     git config user.email github-actions@github.com
+      #     git add .
+      #     git diff --quiet && git diff --staged --quiet || (git commit -m "Update content files" && git push)

@@ -6,7 +6,9 @@
 
 	onMount(() => {
 		const fetchContent = async () => {
-			const response = await fetch(`./data/${data?.goal}/${data?.goal}.csv`);
+			const response = await fetch(
+				`https://www.boredchess.club/sdga2025/data/${data?.goal}/${data?.goal}.csv`
+			);
 			const doc = await response.text();
 			data.content = tsvParse(doc)?.[0];
 		};
