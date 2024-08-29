@@ -43,7 +43,9 @@ jobs:
 
       - name: Update data server files
         run: |
-          scp -i ~/.ssh/id_dataserver -r static/data/** ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data
+          sftp -vvv -i ~/.ssh/id_dataserver ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data <<EOF
+          put -r static/data/**
+          EOF
 
       # - name: Checkout gh-pages branch
       #   uses: actions/checkout@v4
