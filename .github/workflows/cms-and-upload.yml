@@ -43,7 +43,7 @@ jobs:
 
       - name: Update data server files
         run: |
-          sftp -vvv -i ~/.ssh/id_dataserver ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data <<EOF
+          sftp -i ~/.ssh/id_dataserver ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data <<EOF
           put -r static/data/**
           EOF
 
