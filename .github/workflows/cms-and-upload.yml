@@ -38,12 +38,12 @@ jobs:
         uses: shimataro/ssh-key-action@v2.7.0
         with:
           key: ${{ secrets.DATA_SERVER_SSH_PRIVATE_KEY }}
-          name: dataserver
+          name: id_dataserver
           known_hosts: ${{ secrets.DATA_SERVER_KNOWN_HOSTS }}
 
       - name: Update data server files
         run: |
-          scp -r static/data/** ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data
+          scp -i ~/.ssh/id_dataserver -r static/data/** ${{ secrets.DATA_SERVER_USER }}@${{ secrets.DATA_SERVER_HOST }}:/var/www/html/sdga2025/data
 
       # - name: Checkout gh-pages branch
       #   uses: actions/checkout@v4
