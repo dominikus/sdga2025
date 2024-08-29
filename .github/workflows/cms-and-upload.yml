@@ -38,6 +38,8 @@ jobs:
         uses: shimataro/ssh-key-action@v2.7.0
         with:
           key: ${{ secrets.DATA_SERVER_SSH_PRIVATE_KEY }}
+          name: dataserver
+          known_hosts: ${{ secrets.DATA_SERVER_KNOWN_HOSTS }}
 
       - name: Update data server files
         run: |
