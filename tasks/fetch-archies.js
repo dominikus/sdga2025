@@ -143,10 +143,10 @@ const fetchGoogleDoc = async ({ id }, goal) => {
 		});
 		if (res.status === 200) {
 			const bod = await parseDocBody(res?.data?.body?.content, res?.data?.inlineObjects, goal);
-			const filePath = new URL(`test.json`, import.meta.url).pathname;
+			// const filePath = new URL(`test.json`, import.meta.url).pathname;
 
-			console.log(res.data);
-			fs.writeFileSync(filePath, JSON.stringify(res.data, null, 2));
+			// console.log(res.data);
+			// fs.writeFileSync(filePath, JSON.stringify(res.data, null, 2));
 
 			const parsed = bod.result;
 			return { parsed };

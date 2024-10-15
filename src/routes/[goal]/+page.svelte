@@ -10,7 +10,7 @@
 				`https://www.boredchess.club/sdga2025/data/${data?.goal}/${data?.goal}.csv`
 			);
 			const doc = await response.text();
-			data.content = tsvParse(doc)?.[0];
+			data.content = doc; //tsvParse(doc)?.[0];
 		};
 
 		if (data && data?.goal && !data.content) {
@@ -18,7 +18,7 @@
 		}
 	});
 
-	$: content = data?.content?.text.replaceAll(/\\n/g, '<br/>');
+	$: content = data?.content?.replaceAll(/\\n/g, '<br/>');
 	$: console.log(content);
 </script>
 
