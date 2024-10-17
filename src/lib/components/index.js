@@ -4,6 +4,7 @@ export { default as TextBlock } from './TextBlock.svelte';
 export { default as UnknownComponent } from './UnknownComponent.svelte';
 export { default as VisContainer } from './VisContainer.svelte';
 export { default as WideSideBySide } from './WideSideBySide.svelte';
+export { default as SimpleVis } from './SimpleVis.svelte';
 
 /*
 

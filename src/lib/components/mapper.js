@@ -4,7 +4,8 @@ import {
 	TextBlock,
 	UnknownComponent,
 	VisContainer,
-	Loading
+	Loading,
+	SimpleVis
 } from './index.js';
 
 export const mapping = {
@@ -13,13 +14,16 @@ export const mapping = {
 	visContainer: VisContainer,
 	vis: VisContainer,
 	text: TextBlock,
-	scene: Scene
+	scene: Scene,
+
+	povertyscroller: SimpleVis
 
 	// goal 01
 	// povertyscroller: ['goal01', 'PovertyLineScroller'],
 };
 
 export default (contentType, inView = true) => {
+	console.log(contentType);
 	if (inView) {
 		if (mapping.hasOwnProperty(contentType)) {
 			return mapping[contentType];

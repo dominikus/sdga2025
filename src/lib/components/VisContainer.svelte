@@ -1,6 +1,6 @@
 <script>
 	import { _, locale } from '$lib/i18n';
-	// import { faDownload, faImage, faTable, faLink, faCheck } from '@fortawesome/free-solid-svg-icons';
+	//import { faDownload, faImage, faTable, faLink, faCheck } from '@fortawesome/free-solid-svg-icons';
 	// import Fa from 'svelte-fa/src/fa.svelte';
 
 	import { activeGoal } from '$lib/stores/activeGoal';
