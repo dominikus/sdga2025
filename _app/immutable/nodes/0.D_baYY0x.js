@@ -1,4 +1,4 @@
-import{a as i,t as l}from"../chunks/disclose-version.C3lF0O8T.js";import{p as m,h as c,i as f,j as r}from"../chunks/runtime.DeUv2Q9K.js";import{s as d,d as u}from"../chunks/misc.BBIFYleB.js";import{i as _}from"../chunks/lifecycle.D6KXJkEv.js";import{o as h}from"../chunks/index-client.DQJbxDHK.js";const x=!0,g=Object.freeze(Object.defineProperty({__proto__:null,prerender:x},Symbol.toStringTag,{value:"Module"})),t={shareUrl:"http://localhost:5173",pathPrefix:"",hostname:"localhost",shareHostname:"localhost",mobile:872,tablet:1280};var y=l('<div class="app"><main><!></main></div>');function j(n,e){m(e,!1),h(()=>{const a=document.createElement("style");a.appendChild(document.createTextNode(`
+import{a as i,t as l}from"../chunks/disclose-version.Cf_WES-x.js";import{p as m,h as d,i as a,j as r}from"../chunks/runtime.DeoiwFqM.js";import{s as u,d as _,v as t}from"../chunks/variables.fw-7Lq5u.js";import{i as c}from"../chunks/lifecycle.BSH6ilts.js";import{o as h}from"../chunks/index-client.Qu1Vv3At.js";const y=!0,g=Object.freeze(Object.defineProperty({__proto__:null,prerender:y},Symbol.toStringTag,{value:"Module"}));var x=l('<div class="app"><main><!></main></div>');function j(n,e){m(e,!1),h(()=>{const f=document.createElement("style");f.appendChild(document.createTextNode(`
     @font-face {
       font-family: 'Andes';
       font-weight: bold;
@@ -27,4 +27,4 @@ import{a as i,t as l}from"../chunks/disclose-version.C3lF0O8T.js";import{p as m,
         url("${t.pathPrefix}/assets/fonts/loop_icon.woff?bmywp5") format("woff"),
         url("${t.pathPrefix}/assets/fonts/loop_icon.svg?bmywp5#loopicon") format("svg");
     }
-    `)),document.body.appendChild(a)}),_();var o=y(),s=f(o),p=f(s);d(p,u(e),{}),r(s),r(o),i(n,o),c()}export{j as component,g as universal};
+    `)),document.body.appendChild(f)}),c();var o=x(),s=a(o),p=a(s);u(p,_(e),{}),r(s),r(o),i(n,o),d()}export{j as component,g as universal};
