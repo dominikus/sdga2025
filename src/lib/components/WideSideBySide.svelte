@@ -98,10 +98,8 @@
 					{graphic}
 					inScroller
 					{theme}
-					let:parentWidth
-					let:parentHeight
 				>
-					<slot name="graphic" {activeScene} {data} slot="graphic" {parentWidth} {parentHeight} />
+					<slot name="graphic" {activeScene} {data} slot="graphic" />
 				</VisContainer>
 			</div>
 			<div class="right" slot="foreground">

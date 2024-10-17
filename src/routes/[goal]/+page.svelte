@@ -79,7 +79,6 @@
 	}
 </script>
 
-<h1>test:</h1>
 {#if content}
 	{#each content.content as c, index}
 		{#if Array.isArray(c)}
@@ -94,15 +93,12 @@
 				)}
 				{...c}
 				{graphic}
-				let:activeScene
-				let:parentWidth
-				let:parentHeight
 				{shareTitle}
 			>
 				{@const yoyo = (() => {
 					console.log('yoyof hiufsdsudifhhsudichuidsfhiudfshiu');
 				})()}
-				<svelte:fragment slot="graphic">
+				<svelte:fragment slot="graphic" let:activeScene let:parentWidth let:parentHeight>
 					{@const gogo = (() => {
 						console.log('gogo');
 						console.log(c);
@@ -133,7 +129,8 @@
 										'50% 0px 0% 0px' /* scenes are shifted downwards, so we have to adjust their observers' rootMargin accordingly */
 								}}
 								on:enter={() => {
-									highlightGoals(contentProps[index + '_' + sceneIndex]);
+									highlightGoals /* TODO: fix */();
+									/*contentProps[index + '_' + sceneIndex]*/
 									indexEntering(index);
 								}}
 								on:leave={() => {
@@ -141,7 +138,12 @@
 								}}
 							/>
 
-							<DynamicComponent thiz={mapper(scene.type)} {...c} type={scene.type} />
+							<DynamicComponent
+								thiz={mapper(scene.type)}
+								{...scene}
+								text={scene.scene}
+								type={scene.type}
+							/>
 						{/each}
 					{/if}
 				</svelte:fragment>

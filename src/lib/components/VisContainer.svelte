@@ -57,6 +57,7 @@
 	}
 
 	function showTooltip(evt) {
+		x;
 		if (copyLinkEl) {
 			const copyElBounds = copyLinkEl.getBoundingClientRect();
 			mousePos = { x: copyElBounds.x, y: copyElBounds.y };

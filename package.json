@@ -26,6 +26,7 @@
 		"jszip": "^3.10.1",
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
+		"sass-embedded": "^1.80.1",
 		"svelte": "^5.0.0-next.1",
 		"vite": "^5.0.3"
 	},

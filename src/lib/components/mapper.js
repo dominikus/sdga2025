@@ -16,14 +16,13 @@ export const mapping = {
 	text: TextBlock,
 	scene: Scene,
 
-	povertyscroller: SimpleVis
+	simplevis: SimpleVis
 
 	// goal 01
 	// povertyscroller: ['goal01', 'PovertyLineScroller'],
 };
 
 export default (contentType, inView = true) => {
-	console.log(contentType);
 	if (inView) {
 		if (mapping.hasOwnProperty(contentType)) {
 			return mapping[contentType];
