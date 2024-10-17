@@ -41,7 +41,13 @@
 		}
 	};
 
-	$: content = data?.content && translation ? parseProps(data, false, translate) : null;
+	const shareUrl = {
+		origin: '',
+		pathname: '',
+		href: ''
+	};
+
+	$: content = data?.content && translation ? parseProps(data, false, translate, shareUrl) : null;
 	$: console.log(content);
 
 	let onScreen = [];

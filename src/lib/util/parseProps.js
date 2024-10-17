@@ -1,9 +1,13 @@
+import translationKeyToId from '$lib/util/translationKeyToId.js';
+import { locale } from '$lib/i18n';
+import variables from '$lib/variables.js';
+
 let idCounter = 0;
 
 // parseProps replaces all props for a given archie object
 // with their translations (in case TRANSLATION_PREFIX_KEY is set)
 // and its DATA_PATH_KEY attribute with the loaded data file as DATA_OUTPUT_KEY.
-function parseProps(content, ignoreTranslationKeys = false, translate) {
+function parseProps(content, ignoreTranslationKeys = false, translate, shareUrl) {
 	const TRANSLATION_PREFIX_KEY = 'translationPrefix';
 	const DATA_PATH_KEY = 'path';
 	const DATA_OUTPUT_KEY = 'data';
@@ -12,15 +16,23 @@ function parseProps(content, ignoreTranslationKeys = false, translate) {
 	const DOWNLOAD_IMG_KEY = 'shareImg';
 	const ANCHOR_KEY = 'anchorKey';
 
-	let _data = {};
+	// short-cut for pure array entries:
+	if (Array.isArray(content)) {
+		console.log('DDSFDJFDSDFSJSDFIDFSJDFSIDFJDFSJISFJFIS');
+		return content.map((d) => parseProps(d, ignoreTranslationKeys, translate, shareUrl));
+	}
 
 	const keyPrefix = content[TRANSLATION_PREFIX_KEY];
+
+	/*
+	(hopefully?) obsolete data handling:
 	const dataPath = content[DATA_PATH_KEY];
 
 	if (dataPath) {
 		content[DATA_OUTPUT_KEY] = _data[dataPath] ?? [];
 		content[DATA_DOWNLOAD_KEY] = base + '/' + dataPath.replace('.json', '.csv');
 	}
+		*/
 
 	// ignore if it doesn't have a translation prefix:
 	if (!keyPrefix && !ignoreTranslationKeys) {
@@ -32,9 +44,11 @@ function parseProps(content, ignoreTranslationKeys = false, translate) {
 		// recursively translate objects:
 		if (typeof content[key] === 'object') {
 			if (Array.isArray(content[key])) {
-				acc[key] = content[key].map((d) => parseProps(d, ignoreTranslationKeys, translate));
+				acc[key] = content[key].map((d) =>
+					parseProps(d, ignoreTranslationKeys, translate, shareUrl)
+				);
 			} else {
-				acc[key] = parseProps(content[key], ignoreTranslationKeys, translate);
+				acc[key] = parseProps(content[key], ignoreTranslationKeys, translate, shareUrl);
 			}
 			return acc;
 		}
@@ -47,10 +61,9 @@ function parseProps(content, ignoreTranslationKeys = false, translate) {
 			(content?.type === 'vis' || content?.type?.startsWith('scene'))
 		) {
 			const { goalNumberPrefix, contentId } = translationKeyToId(translationKey, false);
-			content[SHARE_URL_KEY] =
-				`${shareUrl.origin + shareUrl.pathname}?lang=${$locale}#${contentId}`;
+			content[SHARE_URL_KEY] = `${shareUrl.origin + shareUrl.pathname}?lang=${locale}#${contentId}`;
 			content[DOWNLOAD_IMG_KEY] =
-				`https://${variables.shareHostname}/${$locale}/${goalNumberPrefix}/${contentId}.png`;
+				`https://${variables.shareHostname}/${locale}/${goalNumberPrefix}/${contentId}.png`;
 			content[ANCHOR_KEY] = contentId;
 		}
 
