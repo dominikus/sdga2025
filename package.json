@@ -18,7 +18,7 @@
 		"@googleapis/drive": "^8.13.0",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/adapter-static": "^3.0.4",
-		"@sveltejs/kit": "^2.0.0",
+		"@sveltejs/kit": "^2.7.2",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0-next.6",
 		"d3": "^7.9.0",
 		"dotenv": "^16.4.5",
@@ -27,7 +27,7 @@
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
 		"sass-embedded": "^1.80.1",
-		"svelte": "^5.0.0-next.1",
+		"svelte": "^5.0.3",
 		"vite": "^5.0.3"
 	},
 	"type": "module",

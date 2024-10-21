@@ -12,6 +12,8 @@
 	export let data;
 	let translation;
 
+	let isScreenshotting = false;
+
 	onMount(() => {
 		const fetchContent = async () => {
 			const response = await fetch(
