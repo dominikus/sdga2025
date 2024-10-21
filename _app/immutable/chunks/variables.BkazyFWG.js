@@ -1,0 +1,1 @@
+import{l as i,m as f}from"./runtime.YRoqm2IX.js";function c(r,e,a,l,h){var o;i&&f();var t=(o=e.$$slots)==null?void 0:o[a],s=!1;t===!0&&(t=e[a==="default"?"children":a],s=!0),t===void 0||t(r,s?()=>l:l)}const d={shareUrl:"http://localhost:5173",pathPrefix:"",hostname:"localhost",shareHostname:"localhost",mobile:872,tablet:1280};export{c as s,d as v};

@@ -1,1 +1,0 @@
-import{v as l,w as s}from"./runtime.DeoiwFqM.js";function n(e,t,a,r){l&&s(),t===void 0||t(e,a)}function i(e){var a;var t=(a=e.$$slots)==null?void 0:a.default;return t===!0?e.children:t}const h={shareUrl:"http://localhost:5173",pathPrefix:"",hostname:"localhost",shareHostname:"localhost",mobile:872,tablet:1280};export{i as d,n as s,h as v};
