@@ -7,23 +7,24 @@
 	import parseProps from '$lib/util/parseProps.js';
 	import translationKeyToId from '$lib/util/translationKeyToId.js';
 	import { _ } from '$lib/i18n';
+	import { tsvParse } from 'd3';
 
 	let { data } = $props();
 	let translation = $state(null);
 
 	let isScreenshotting = false;
 
+	const BACKEND_URL = `https://www.boredchess.club/sdga2025/data`;
+
 	onMount(() => {
 		const fetchContent = async () => {
-			const response = await fetch(
-				`https://www.boredchess.club/sdga2025/data/${data?.goal}/${data?.goal}.json`
-			);
+			const response = await fetch(`${BACKEND_URL}/${data?.goal}/${data?.goal}.json`);
 			const doc = await response.json();
 			console.log(doc);
 			data = { ...data, ...doc };
 
 			const translationResponse = await fetch(
-				`https://www.boredchess.club/sdga2025/data/${data?.goal}/${data?.goal}.en.i18n.json`
+				`${BACKEND_URL}/${data?.goal}/${data?.goal}.en.i18n.json`
 			);
 			const trdoc = await translationResponse.json();
 			translation = trdoc;
@@ -54,10 +55,49 @@
 		data?.content && translation ? parseProps(data, false, translate, shareUrl) : null
 	);
 
+	let dataFetchers = $state({});
+
+	const fetchFromDataCommand = async (dataId) => {
+		_data[dataId] = [];
+		dataFetchers[dataId] = new Promise(async (resolve, reject) => {
+			try {
+				const remoteData = await fetch(`${BACKEND_URL}/${data?.goal}/${dataId}.tsv`);
+				const trdoc = await remoteData.text();
+				const trtsv = tsvParse(trdoc);
+
+				_data[dataId] = trtsv;
+				resolve(trtsv);
+			} catch (e) {
+				reject(e);
+			}
+		});
+	};
+
+	const fetchData = (content) => {
+		if (Array.isArray(content)) {
+			for (let c of content) {
+				fetchData(c);
+			}
+		} else if (typeof content === 'object') {
+			if (content.type === 'data') {
+				fetchFromDataCommand(content.data);
+			}
+
+			Object.values(content).forEach((val) => {
+				fetchData(val);
+			});
+		}
+	};
+
+	let _data = $state({});
+
 	$inspect(content);
 
 	$effect(() => {
 		if (content) {
+			// find [data: ] attributes within content:
+			console.log('fetching data');
+			fetchData(content);
 		}
 	});
 
@@ -100,9 +140,7 @@
 	{#each content.content as c, index}
 		{#if Array.isArray(c)}
 			{@const graphic = c.find((d) => d.hasOwnProperty('vis')).vis}
-			{@const lolo = (() => {
-				console.log('lfdshdsfhsd lolo hfsdudshuifiushuisdfsdfhiu', graphic);
-			})()}
+			{@const dataEntry = c.find((d) => d?.type === 'data')}
 
 			{@const Component = mapper(
 				'wide_scroller',
@@ -110,18 +148,19 @@
 			)}
 
 			<Component {...c} {graphic} {shareTitle}>
-				{@const yoyo = (() => {
-					console.log('yoyof hiufsdsudifhhsudichuidsfhiudfshiu');
-				})()}
 				<svelte:fragment slot="graphic" let:activeScene let:parentWidth let:parentHeight>
-					{@const gogo = (() => {
-						console.log('gogo');
-						console.log(c);
-						console.log('gogo');
-					})()}
 					{#if graphic}
 						{@const GraphicComponent = mapper(graphic)}
-						<GraphicComponent {...c} type={graphic} {activeScene} {parentWidth} {parentHeight} />
+						<GraphicComponent
+							{...c}
+							type={graphic}
+							{activeScene}
+							{parentWidth}
+							{parentHeight}
+							data={_data.hasOwnProperty(dataEntry?.data)
+								? $state.snapshot(_data[dataEntry?.data])
+								: []}
+						/>
 					{/if}
 				</svelte:fragment>
 				<svelte:fragment slot="scenes">
@@ -154,10 +193,6 @@
 				</svelte:fragment>
 			</Component>
 		{:else}
-			{@const arbo = (() => {
-				console.log(content);
-			})()}
-
 			{@const Component = mapper(c.type, true)}
 			<Component
 				onScreen={/* TODO: fix inView */ true || onScreen.includes(index) || !browser}

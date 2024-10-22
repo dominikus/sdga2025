@@ -18,7 +18,6 @@ function parseProps(content, ignoreTranslationKeys = false, translate, shareUrl)
 
 	// short-cut for pure array entries:
 	if (Array.isArray(content)) {
-		console.log('DDSFDJFDSDFSJSDFIDFSJDFSIDFJDFSJISFJFIS');
 		return content.map((d) => parseProps(d, ignoreTranslationKeys, translate, shareUrl));
 	}
 
