@@ -2,15 +2,14 @@
 	import { onMount } from 'svelte';
 	import { inview } from 'svelte-inview';
 
-	import DynamicComponent from '$lib/components/DynamicComponent.svelte';
 	import mapper from '$lib/components/mapper.js';
 
 	import parseProps from '$lib/util/parseProps.js';
 	import translationKeyToId from '$lib/util/translationKeyToId.js';
 	import { _ } from '$lib/i18n';
 
-	export let data;
-	let translation;
+	let { data } = $props();
+	let translation = $state(null);
 
 	let isScreenshotting = false;
 
@@ -29,6 +28,8 @@
 			const trdoc = await translationResponse.json();
 			translation = trdoc;
 		};
+
+		console.log(data);
 
 		if (data && data?.goal && !data.content) {
 			fetchContent();
@@ -49,14 +50,22 @@
 		href: ''
 	};
 
-	$: content = data?.content && translation ? parseProps(data, false, translate, shareUrl) : null;
-	$: console.log(content);
+	let content = $derived(
+		data?.content && translation ? parseProps(data, false, translate, shareUrl) : null
+	);
 
-	let onScreen = [];
+	$inspect(content);
+
+	$effect(() => {
+		if (content) {
+		}
+	});
+
 	let isFetchingTranslations = false;
-	$: shareTitle = data?.goal;
 
-	$: onScreen = [];
+	let shareTitle = $derived(data?.goal);
+
+	let onScreen = $state([]);
 	function indexEntering(index) {
 		if (onScreen.indexOf(index) === -1) {
 			onScreen = [...onScreen, index];
@@ -94,15 +103,13 @@
 			{@const lolo = (() => {
 				console.log('lfdshdsfhsd lolo hfsdudshuifiushuisdfsdfhiu', graphic);
 			})()}
-			<svelte:component
-				this={mapper(
-					'wide_scroller',
-					/* TODO: fix inView */ true || onScreen.includes(index) || !browser || $isScreenshotting
-				)}
-				{...c}
-				{graphic}
-				{shareTitle}
-			>
+
+			{@const Component = mapper(
+				'wide_scroller',
+				/* TODO: fix inView */ true || onScreen.includes(index) || !browser || $isScreenshotting
+			)}
+
+			<Component {...c} {graphic} {shareTitle}>
 				{@const yoyo = (() => {
 					console.log('yoyof hiufsdsudifhhsudichuidsfhiudfshiu');
 				})()}
@@ -113,18 +120,12 @@
 						console.log('gogo');
 					})()}
 					{#if graphic}
-						<DynamicComponent
-							thiz={mapper(graphic)}
-							{...c}
-							type={graphic}
-							{activeScene}
-							{parentWidth}
-							{parentHeight}
-						/>
+						{@const GraphicComponent = mapper(graphic)}
+						<GraphicComponent {...c} type={graphic} {activeScene} {parentWidth} {parentHeight} />
 					{/if}
 				</svelte:fragment>
 				<svelte:fragment slot="scenes">
-					{@const scenes = Object.values(c.filter((d) => d.hasOwnProperty('scene')))}
+					{@const scenes = Object.values(c.filter((d) => d?.type === 'scene'))}
 					{#if scenes}
 						{#each scenes as scene, sceneIndex (data?.goal + index + '-' + sceneIndex)}
 							{#if content?.translationPrefix}
@@ -146,22 +147,19 @@
 								}}
 							/>
 
-							<DynamicComponent
-								thiz={mapper(scene.type)}
-								{...scene}
-								text={scene.scene}
-								type={scene.type}
-							/>
+							{@const SceneComponent = mapper(scene.type)}
+							<SceneComponent {...scene} text={scene.text} type={scene.type} />
 						{/each}
 					{/if}
 				</svelte:fragment>
-			</svelte:component>
+			</Component>
 		{:else}
 			{@const arbo = (() => {
 				console.log(content);
 			})()}
-			<DynamicComponent
-				thiz={mapper(c.type, true)}
+
+			{@const Component = mapper(c.type, true)}
+			<Component
 				onScreen={/* TODO: fix inView */ true || onScreen.includes(index) || !browser}
 				{...c}
 			/>
